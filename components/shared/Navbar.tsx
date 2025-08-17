@@ -3,7 +3,6 @@
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import Link from "next/link"
 import { useEffect, useState, FC } from "react"
-import { usePathname } from "next/navigation"
 
 const navLinks = [
   { href: "/", label: "Home" },
