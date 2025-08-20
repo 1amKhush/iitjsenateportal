@@ -86,27 +86,24 @@ const CubeFace: React.FC<CubeFaceProps> = ({
         </div>
       </div>
       {/* Bottom side */}
+      {clubs.length > 0 && (
       <div className="bg-black/50 border border-cyan-200/10 rounded-lg p-3 text-cyan-100 text-sm min-h-[60px] flex flex-col shadow-sm mt-3">
         <span className="font-medium mb-1">
           Clubs under{" "}
           {boardTitle.split("(")[1]?.replace(")", "") || boardTitle}:
         </span>
         <div className="flex flex-wrap gap-2 mt-1">
-          {clubs.length > 0 ? (
-            clubs.map((club, idx) => (
+          {clubs.map((club, idx) => (
               <span
                 key={idx}
                 className="px-2 py-1 rounded bg-cyan-900/40 border border-cyan-200/20 text-xs text-cyan-100"
               >
                 {club}
               </span>
-            ))
-          ) : (
-            <span className="italic text-cyan-300">No clubs listed</span>
-          )}
+            ))}
         </div>
       </div>
-
+      )}
       {/* Glass shine effect */}
       <div className="pointer-events-none absolute inset-0 rounded-xl overflow-hidden">
         <div className="absolute -top-8 -left-8 w-1/3 h-1/3 bg-white/10 blur-[6px] rotate-12" />

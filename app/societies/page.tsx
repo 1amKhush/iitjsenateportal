@@ -8,8 +8,8 @@ import { councils } from '@/data/councils'
 import { ACACBoards, SACBoards } from '@/data/boards'
 import { getCubeFaces } from '@/lib/utils'
 import { BCCAClubs, BLAClubs, BACClubs, BSSClubs } from '@/data/clubs';
-import { BSWCommunities, BHACommunities } from '@/data/communities';
-import { BAICommunities, BDSCommunities, BCDCommunities } from '@/data/communities';
+import { BHACommunities } from '@/data/communities';
+import { BAICommunities, BDSCommunities } from '@/data/communities';
 import { ACACOtherCommunities, BCCAOtherCommunities, SSOtherCommunities } from '@/data/communities';
 
 const SectionTitle = ({ children }: { children: React.ReactNode }) => (
@@ -31,8 +31,8 @@ const Societies = () => {
     const ACAC_faces = getCubeFaces(ACACBoards);
     const SAC_faces = getCubeFaces(SACBoards);
 
-    const SAC_communities = [...BSWCommunities, ...BHACommunities, ...BCCAOtherCommunities];
-    const ACAC_communities = [...BAICommunities, ...BDSCommunities, ...BCDCommunities, ...ACACOtherCommunities];
+    const SAC_communities = [ ...BHACommunities, ...BCCAOtherCommunities];
+    const ACAC_communities = [...BAICommunities, ...BDSCommunities, ...ACACOtherCommunities];
     const SS_communities = [...SSOtherCommunities];
 
     // Handle clicks outside of navigation

@@ -1,33 +1,7 @@
 // SAC
 
-export const BSWCommunities = [
-    {
-        title: "Student Wellbeing Commitee - SWC",
-        description: "Development society focused on building innovative solutions and enhancing technical skills.",
-        imageurl: "/images/clubs/bcca/devlup-labs.png",
-        holder: "",
-        contactInfo: "devlup@iitj.ac.in",
-        socialLinks: []
-    },
-    {
-        title: "Festival Committee",
-        description: "Development society focused on building innovative solutions and enhancing technical skills.",
-        imageurl: "/images/clubs/bcca/devlup-labs.png",
-        holder: "",
-        contactInfo: "devlup@iitj.ac.in",
-        socialLinks: []
-    }
-]
 
 export const BHACommunities = [
-    {
-        title: "Dining and Mess Comimttee",
-        description: "Development society focused on building innovative solutions and enhancing technical skills.",
-        imageurl: "/images/clubs/bcca/devlup-labs.png",
-        holder: "",
-        contactInfo: "devlup@iitj.ac.in",
-        socialLinks: []
-    },
     {
         title: "Hostel general secretarys",
         description: "Development society focused on building innovative solutions and enhancing technical skills.",
@@ -70,24 +44,6 @@ export const BDSCommunities = [
     }
 ]
 
-export const BCDCommunities = [
-    {
-        title: "Placement Representatives",
-        description: "Development society focused on building innovative solutions and enhancing technical skills.",
-        imageurl: "/images/clubs/bcca/devlup-labs.png",
-        holder: "",
-        contactInfo: "devlup@iitj.ac.in",
-        socialLinks: []
-    },
-    {
-        title: "Intern Representatives",
-        description: "Development society focused on building innovative solutions and enhancing technical skills.",
-        imageurl: "/images/clubs/bcca/devlup-labs.png",
-        holder: "",
-        contactInfo: "devlup@iitj.ac.in",
-        socialLinks: []
-    }
-]
 
 // Other communities
 export const ACACOtherCommunities = [
@@ -136,5 +92,21 @@ export const SSOtherCommunities = [
         holder: "",
         contactInfo: "devlup@iitj.ac.in",
         socialLinks: []
-    }
+    },
+    {
+        title: "UG Representative",
+        description: "Development society focused on building innovative solutions and enhancing technical skills.",
+        imageurl: "/images/clubs/bcca/devlup-labs.png",
+        holder: "",
+        contactInfo: "devlup@iitj.ac.in",
+        socialLinks: []
+    },
+    {
+        title: "PG Representative",
+        description: "Development society focused on building innovative solutions and enhancing technical skills.",
+        imageurl: "/images/clubs/bcca/devlup-labs.png",
+        holder: "",
+        contactInfo: "devlup@iitj.ac.in",
+        socialLinks: []
+    },
 ]

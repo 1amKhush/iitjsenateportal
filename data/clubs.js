@@ -148,7 +148,23 @@ export const BACClubs = [
         holder: "",
         contactInfo: "raw@iitj.ac.in",
         socialLinks: []
-    }
+    },
+    {
+        title: "Colonary club",
+        description: "Culinary club exploring food, cooking, and gastronomy.",
+        imageurl: "/images/clubs/bac/colonary-club.png",
+        holder: "",
+        contactInfo: "colonaryclub@iitj.ac.in",
+        socialLinks: []
+    },
+    {
+        title: "Fashion Club",
+        description: "Fashion club promoting design, styling, and creative expression through fashion.",
+        imageurl: "/images/clubs/bac/fashion-club.png",
+        holder: "",
+        contactInfo: "raw@iitj.ac.in",
+        socialLinks: []
+    },
 ];
 
 export const BSSClubs = [
@@ -263,50 +279,32 @@ export const BSSClubs = [
         holder: "",
         contactInfo: "chess@iitj.ac.in",
         socialLinks: []
-    }
-];
-
-// Missing data arrays that were referenced in Cards.tsx
-export const BCDClubs = [
+    },
     {
-        title: "BCD Cultural Club",
-        description: "Board of Cultural Development club promoting arts and cultural activities.",
-        imageurl: "/images/clubs/bcd/bcd-cultural.png",
+        title: "Aquatics Society",
+        description: "Society promoting water sports and activities, including swimming and diving.",
+        imageurl: "/images/clubs/bss/aquatics-soc.png",
         holder: "",
-        contactInfo: "bcd@iitj.ac.in",
+        contactInfo: "aquatics@iitj.ac.in",
         socialLinks: []
-    }
-];
-
-export const BAIClubs = [
+    },
     {
-        title: "BAI Academic Club",
-        description: "Board of Academic Infrastructure club supporting academic initiatives.",
-        imageurl: "/images/clubs/bai/bai-academic.png",
+        title: "Table tennis club",
+        description: "Society for developing strategic thinking through table tennis competitions and learning sessions.",
+        imageurl: "/images/clubs/bss/table-tennis-club.png",
         holder: "",
-        contactInfo: "bai@iitj.ac.in",
+        contactInfo: "tabletennis@iitj.ac.in",
         socialLinks: []
-    }
+    },
 ];
 
 export const SAAClubs = [
     {
-        title: "SAA Student Club",
-        description: "Student Academic Affairs club focusing on academic support and initiatives.",
-        imageurl: "/images/clubs/saa/saa-student.png",
+        title: "Society of Alumni Affairs",
+        description: "Society focusing on alumni relations and initiatives.",
+        imageurl: "/images/clubs/saa/saa.png",
         holder: "",
         contactInfo: "saa@iitj.ac.in",
-        socialLinks: []
-    }
-];
-
-export const BIECLubs = [
-    {
-        title: "BIEC Innovation Club",
-        description: "Board of Innovation and Entrepreneurship club promoting startup culture.",
-        imageurl: "/images/clubs/biec/biec-innovation.png",
-        holder: "",
-        contactInfo: "biec@iitj.ac.in",
         socialLinks: []
     }
 ];

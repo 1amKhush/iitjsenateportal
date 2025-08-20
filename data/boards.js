@@ -10,7 +10,7 @@ export const ACACBoards = [
             { label: "Instagram", href: "https://instagram.com/bai_iitj" },
             { label: "LinkedIn", href: "https://linkedin.com/in/bai_iitj" }
         ],
-        clubs: ["Academic Club", "Research Club"]
+        clubs: []
     },
     {
         title: "Board of Departmental Societies (BDS)",
@@ -22,7 +22,7 @@ export const ACACBoards = [
         socialLinks: [
             { label: "Instagram", href: "https://instagram.com/bds_iitj" }
         ],
-        clubs: ["CSE Society", "EE Society", "ME Society"]
+        clubs: []
     },
     {
         title: "Board of Career Development (BCD)",
@@ -34,7 +34,7 @@ export const ACACBoards = [
         socialLinks: [
             { label: "LinkedIn", href: "https://linkedin.com/in/bcd_iitj" }
         ],
-        clubs: ["Placement Cell", "Internship Cell"]
+        clubs: []
     },
     {
         title: "Society of Alumni Affairs (SAA)",
@@ -46,7 +46,7 @@ export const ACACBoards = [
         socialLinks: [
             { label: "Facebook", href: "https://facebook.com/saa_iitj" }
         ],
-        clubs: ["Alumni Network"]
+        clubs: []
     },
     {
         title: "Board of Innovation and Entrepreneurship (BIE)",
@@ -58,7 +58,7 @@ export const ACACBoards = [
         socialLinks: [
             { label: "Website", href: "https://iitj.ac.in/innovation" }
         ],
-        clubs: ["E-Cell", "Startup Club"]
+        clubs: ["E-Cell", "IIC"]
     },
     {
         title: "Board of Co Curricular Affairs (BCCA)",
@@ -70,7 +70,7 @@ export const ACACBoards = [
         socialLinks: [
             { label: "Instagram", href: "https://instagram.com/bcca_iitj" }
         ],
-        clubs: ["Drama Club", "Music Club", "Dance Club"]
+        clubs: ["RAID", "Devlup labs", "Robotics soc", "INSIDE", "Programming Club", "Nexus", "Automobile soc"]
     }
 ];
 
@@ -85,7 +85,7 @@ export const SACBoards = [
         socialLinks: [
             { label: "Instagram", href: "https://instagram.com/bac_iitj" }
         ],
-        clubs: ["Fine Arts Club", "Photography Club", "Literary Club"]
+        clubs: ["TGT", "Atliers", "Designerds", "FrameX", "ShutterBugs", "Dramebaaz", "Sangam", "Raw", "Colonary club", "Fashion club"]
     },
     {
         title: "Board of Student Sports (BSS)",
@@ -97,7 +97,20 @@ export const SACBoards = [
         socialLinks: [
             { label: "Instagram", href: "https://instagram.com/bss_iitj" }
         ],
-        clubs: ["Cricket Club", "Football Club", "Badminton Club"]
+        clubs: [
+            "Cricket Soc",
+            "Hockey Soc",
+            "Squash Soc",
+            "Athletics Soc",
+            "Respawn",
+            "Basketball Soc",
+            "VoleyBall Soc",
+            "Badminton Soc",
+            "Chess Soc",
+            "Aquatics",
+            "Table tennis",
+            "Kabbadi Soc"
+        ]
     },
     {
         title: "Board of Student Welfare (BSW)",
@@ -109,7 +122,7 @@ export const SACBoards = [
         socialLinks: [
             { label: "Website", href: "https://iitj.ac.in/bsw" }
         ],
-        clubs: ["Wellness Club", "Counselling Cell"]
+        clubs: []
     },
     {
         title: "Board of Literary Affairs (BLA)",
@@ -121,7 +134,7 @@ export const SACBoards = [
         socialLinks: [
             { label: "Instagram", href: "https://instagram.com/bla_iitj" }
         ],
-        clubs: ["Debate Club", "Book Club", "Quiz Club"]
+        clubs: ["QuizSoc", "LitSoc", "Pheme"]
     },
     {
         title: "Board of Hostel Affairs (BHA)",
@@ -133,6 +146,6 @@ export const SACBoards = [
         socialLinks: [
             { label: "Instagram", href: "https://instagram.com/bha_iitj" }
         ],
-        clubs: ["Hostel Committee", "Mess Committee"]
+        clubs: []
     }
 ];
