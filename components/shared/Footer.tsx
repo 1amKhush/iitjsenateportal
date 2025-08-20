@@ -3,6 +3,10 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
 import { Linkedin, Instagram, Mail } from 'lucide-react';
+import AboutUsPopup from "./AboutUsPopup";
+import questions from '../../data/questions.json';
+import { useRouter } from 'next/navigation';
+
 
 // Define types for weather data
 interface CurrentWeather {
@@ -122,6 +126,10 @@ interface WeatherFooterData {
 
 const Footer: React.FC = () => {
   const [weatherData, setWeatherData] = useState<WeatherFooterData | null>(null);
+  const [isPopupOpen, setPopupOpen] = useState(false);
+  const [currentQuestion, setCurrentQuestion] = useState({ question: '', answer: '' });
+  const [userAnswer, setUserAnswer] = useState('');
+  const router = useRouter();
 
   useEffect(() => {
     const fetchWeatherAndAQI = async () => {
@@ -170,6 +178,28 @@ const Footer: React.FC = () => {
     const intervalId = setInterval(fetchWeatherAndAQI, 10 * 60 * 1000);
     return () => clearInterval(intervalId);
   }, []);
+  
+    const handleAboutUsClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
+    e.preventDefault();
+    const randomIndex = Math.floor(Math.random() * questions.length);
+    setCurrentQuestion(questions[randomIndex]);
+    setPopupOpen(true);
+  };
+
+  const handlePopupClose = () => {
+    setPopupOpen(false);
+    setUserAnswer('');
+  };
+
+  const handleAnswerSubmit = () => {
+    if (userAnswer.toLowerCase() === currentQuestion.answer.toLowerCase()) {
+      router.push('/about-us');
+      handlePopupClose();
+    } else {
+      alert('Incorrect answer. Please try again.');
+    }
+  };
+
 
   return (
     <footer className="w-full bg-gray-900 text-gray-100 pt-12 pb-6 px-4 md:px-8 lg:px-12 font-sans">
@@ -229,7 +259,7 @@ const Footer: React.FC = () => {
             <li><a href="#" className="hover:text-white transition">Rules</a></li>
             <li><a href="#" className="hover:text-white transition">Campus Life</a></li>
             <li><a href="#" className="hover:text-white transition">Campus Gallery</a></li>
-            <li><a href="#" className="hover:text-white transition">About Us</a></li>
+            <li><a href="#" onClick={handleAboutUsClick} className="hover:text-white transition">About Us</a></li>
             <li><a href="#" className="hover:text-white transition">Contact Us</a></li>
           </ul>
         </div>
@@ -275,6 +305,14 @@ const Footer: React.FC = () => {
           </div>
         </div>
       </div>
+      <AboutUsPopup
+        isOpen={isPopupOpen}
+        onClose={handlePopupClose}
+        question={currentQuestion.question}
+        answer={userAnswer}
+        onAnswerChange={setUserAnswer}
+        onSubmit={handleAnswerSubmit}
+      />
     </footer>
   );
 };
