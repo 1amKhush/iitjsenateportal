@@ -8,9 +8,10 @@ export const people = [
     phone: "+91 1234567890",
     links: {
       linkedin: "https://www.linkedin.com/in/yash-golani/",
-      instagram: "https://www.instagram.com/yash_golani/"
+      instagram: "https://www.instagram.com/yash_golani/",
     },
-    image: "/images/people/yash_golani.jpg"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM0kn6IFhLQUnjtNa3mvPIyRkGdMSOouY2pli6",
   },
   {
     id: 2,
@@ -21,9 +22,10 @@ export const people = [
     phone: "+91 1234567890",
     links: {
       linkedin: "https://www.linkedin.com/in/tharakdatta-hegde/",
-      instagram: "https://www.instagram.com/tharakdatta_hegde/"
+      instagram: "https://www.instagram.com/tharakdatta_hegde/",
     },
-    image: "/images/people/tharakdatta_hegde.jpg"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMa8bHDEceJmhow4nXI6bRATDOSCcuqytEx832",
   },
   {
     id: 3,
@@ -34,9 +36,10 @@ export const people = [
     phone: "+91 9521771854",
     links: {
       linkedin: "https://www.linkedin.com/in/manas-chechani/",
-      instagram: "https://www.instagram.com/manas_chechani/"
+      instagram: "https://www.instagram.com/manas_chechani/",
     },
-    image: "/images/people/manas_chechani.jpg"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMxsWB0hOJcHFTyQfhOIG1qrJtL8u6RAoBX7P2",
   },
   {
     id: 4,
@@ -46,7 +49,8 @@ export const people = [
     email: "b23cs1092@iitj.ac.in",
     phone: "+91 9667164576",
     links: {},
-    image: "/images/people/krish_teckchandani.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMEXmOSiDwicRMrFzIfT9NVHxLbe3dvG1Cthlg",
   },
   {
     id: 5,
@@ -56,7 +60,8 @@ export const people = [
     email: "b23ee1071@iitj.ac.in",
     phone: "+91 8937085795",
     links: {},
-    image: "/images/people/sourav_chahar.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMhjaoQT1nwALUzhiJOrGlbjVNadHTBtuRWY12",
   },
   {
     id: 6,
@@ -66,7 +71,8 @@ export const people = [
     email: "vp_bcd@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/anchitya_kumar.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMA0dF9iOon6QYzvUW0Tj8RmS97NExKsfdPuXq",
   },
   {
     id: 7,
@@ -76,7 +82,8 @@ export const people = [
     email: "b23es1020@iitj.ac.in",
     phone: "+91 7499027852",
     links: {},
-    image: "/images/people/Raghuveer_Kulkarni.jpg"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMXHgbGL8nOm9BbZ8AUWNXVFpe2gvisLhSClDR",
   },
   {
     id: 8,
@@ -86,7 +93,8 @@ export const people = [
     email: "b23cm1058@iitj.ac.in",
     phone: "+91 9998708013",
     links: {},
-    image: "/images/people/vyom_shah.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM3BAHznp7BCZovpq4alX91RPOutA5KH2rhVD8",
   },
   {
     id: 9,
@@ -96,7 +104,8 @@ export const people = [
     email: "b23ee1092@iitj.ac.in",
     phone: "+91 9508798686",
     links: {},
-    image: "/images/people/Sambhav_Jha.jpg"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMbf7bu4QrJYjGCL0guqFMUsI3leyP8vRV9k4A",
   },
   {
     id: 10,
@@ -106,7 +115,7 @@ export const people = [
     email: "b23ee1101@iitj.ac.in",
     phone: "+91 9599239032",
     links: {},
-    image: "/images/people/vaibhav_singh.png"
+    image: "/images/people/vaibhav_singh.png",
   },
   {
     id: 11,
@@ -116,7 +125,7 @@ export const people = [
     email: "b23es1032@iitj.ac.in",
     phone: "+91 6355798073",
     links: {},
-    image: "/images/people/sudhanshu_tamhankar.png"
+    image: "/images/people/sudhanshu_tamhankar.png",
   },
   {
     id: 12,
@@ -126,7 +135,8 @@ export const people = [
     email: "b23cs1087@iitj.ac.in",
     phone: "+91 8006337201",
     links: {},
-    image: "/images/people/anshit_agarwal.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMWNKTiiXQMqbLK4kijAz8GBa7nZvfC3eOhlyP",
   },
   {
     id: 13,
@@ -136,7 +146,7 @@ export const people = [
     email: "vp_bha@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/harsh_kumar.png"
+    image: "/images/people/harsh_kumar.png",
   },
   {
     id: 14,
@@ -147,7 +157,7 @@ export const people = [
     email: "b24edp013@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aashish_ranjan.png"
+    image: "/images/people/aashish_ranjan.png",
   },
   {
     id: 15,
@@ -158,7 +168,7 @@ export const people = [
     email: "b24edm010@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/ashish_kurrey.png"
+    image: "/images/people/ashish_kurrey.png",
   },
   {
     id: 16,
@@ -169,7 +179,7 @@ export const people = [
     email: "b24ci1037@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/nitesh_yadav.png"
+    image: "/images/people/nitesh_yadav.png",
   },
   {
     id: 17,
@@ -180,7 +190,7 @@ export const people = [
     email: "b24ee1062@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aditya_rathod.png"
+    image: "/images/people/aditya_rathod.png",
   },
   {
     id: 18,
@@ -191,7 +201,7 @@ export const people = [
     email: "b24bb1004@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/akshat_rathore.png"
+    image: "/images/people/akshat_rathore.png",
   },
   {
     id: 19,
@@ -202,7 +212,7 @@ export const people = [
     email: "b24es1024@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/harsh_raj.png"
+    image: "/images/people/harsh_raj.png",
   },
   {
     id: 20,
@@ -213,7 +223,7 @@ export const people = [
     email: "b23cm1039@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/soham_khairnar.png"
+    image: "/images/people/soham_khairnar.png",
   },
   {
     id: 21,
@@ -224,7 +234,7 @@ export const people = [
     email: "b24cs1049@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/sumana_nimmagadda.png"
+    image: "/images/people/sumana_nimmagadda.png",
   },
   {
     id: 22,
@@ -235,7 +245,7 @@ export const people = [
     email: "b24ci1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/mudit_kumar_singh.png"
+    image: "/images/people/mudit_kumar_singh.png",
   },
   {
     id: 23,
@@ -246,7 +256,7 @@ export const people = [
     email: "b23cs1089@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/arpan_jain.png"
+    image: "/images/people/arpan_jain.png",
   },
   {
     id: 76,
@@ -257,7 +267,7 @@ export const people = [
     email: "b23cs1089@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/arpan_jain.png"
+    image: "/images/people/arpan_jain.png",
   },
   {
     id: 77,
@@ -268,7 +278,8 @@ export const people = [
     email: "b23cs1089@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/archie_singh.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMReemSmtTQ3Wuyv6SaiXCdfzVsJN4et8oAc1b",
   },
   {
     id: 78,
@@ -279,7 +290,8 @@ export const people = [
     email: "b23cs1089@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/sai_akshar.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM2Q7tW2DjeYxol2dbNHkzJ6mBG8A4gDPw5Tac",
   },
   {
     id: 79,
@@ -290,7 +302,8 @@ export const people = [
     email: "b23cs1089@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/ojaswi_gupta.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMMFrt8d4ihWwQlHop54A38Prysv9UfXEdD7bT",
   },
   {
     id: 24,
@@ -301,7 +314,8 @@ export const people = [
     email: "b23cs1002@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aaryan_agrawal.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM0C0DikhLQUnjtNa3mvPIyRkGdMSOouY2pli6",
   },
   {
     id: 73,
@@ -312,7 +326,8 @@ export const people = [
     email: "b23cs1002@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aarssh.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM1LY0GW9PpKjW8iv50fzkD4GMsqmtZaRcQglb",
   },
   {
     id: 74,
@@ -323,7 +338,8 @@ export const people = [
     email: "b23cs1002@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/sarra.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM5GhMIE1Rvk3YhnSx0XFQRLUOKwegmJfCBHDc",
   },
   {
     id: 75,
@@ -334,7 +350,8 @@ export const people = [
     email: "b23cs1002@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/shiv_shome.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMzxWuda44N23hsY65ljPwdOCTgJXMAWQv8ZcB",
   },
   {
     id: 25,
@@ -345,7 +362,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/shrey_shah.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMxIoQp7JcHFTyQfhOIG1qrJtL8u6RAoBX7P25",
   },
   {
     id: 80,
@@ -356,7 +374,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/vineet.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMNUBmLxqDZdaw4LGQ2p0miWY8jC3eIJSTftcz",
   },
   {
     id: 81,
@@ -367,7 +386,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/pratham_karmakar.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMhlY8vk1nwALUzhiJOrGlbjVNadHTBtuRWY12",
   },
   {
     id: 82,
@@ -378,7 +398,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/darshan_prajapati.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMT2jScoGObFdhrDECkcBNAGqatY3VuRpzfHTv",
   },
   {
     id: 83,
@@ -389,7 +410,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/Pragay.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM8VCt8O5n2WrtYuFCDq7fZHLbAJGzR1do0VI3",
   },
   {
     id: 84,
@@ -400,7 +422,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/Vishal_Kishore.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMFQTY0ivDoYjZrL4UGgklRhXWKmb1dsSi8BJf",
   },
   {
     id: 85,
@@ -411,7 +434,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/Sirin_Changulani.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMjZRh6Enzt5LTs2UK7WjJ8pryFe4cinqAuaBz",
   },
   {
     id: 85,
@@ -422,7 +446,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/Siddh_Mehta.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMp1pA4FI1Cl4aMh6Ubs5TwG8PFAJSkj0WKHYu",
   },
   {
     id: 85,
@@ -433,7 +458,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/SAKSHAM_KURAI.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMqx6HghLR5dq3NsCzvcf0WrlQA4VSH6ZkPOwL",
   },
   {
     id: 85,
@@ -444,7 +470,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/NALLAGONDA_DHARSHAN.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMbZkBZfQrJYjGCL0guqFMUsI3leyP8vRV9k4A",
   },
   {
     id: 85,
@@ -455,7 +482,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/AVULA_VARSHITHA_REDDY.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM1JOaJW9PpKjW8iv50fzkD4GMsqmtZaRcQglb",
   },
   {
     id: 85,
@@ -466,7 +494,8 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/ATMAKURI_SAI_GAYATHRI.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMfdLtsG0Oz1RaPXjoIMiACN9eKgbVHY6ZqkSW",
   },
   {
     id: 26,
@@ -477,7 +506,7 @@ export const people = [
     email: "b24es1031@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/shiv_shome.png"
+    image: "/images/people/shiv_shome.png",
   },
   {
     id: 27,
@@ -488,7 +517,7 @@ export const people = [
     email: "b24me1045@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/manas_methi.png"
+    image: "/images/people/manas_methi.png",
   },
   {
     id: 28,
@@ -499,7 +528,7 @@ export const people = [
     email: "b24cm1004@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aditya_ranjan.png"
+    image: "/images/people/aditya_ranjan.png",
   },
   {
     id: 29,
@@ -510,7 +539,7 @@ export const people = [
     email: "b24cm1044@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/manthan_nayak.png"
+    image: "/images/people/manthan_nayak.png",
   },
   {
     id: 30,
@@ -521,7 +550,7 @@ export const people = [
     email: "b24ci1033@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/mugdha_ghodke.png"
+    image: "/images/people/mugdha_ghodke.png",
   },
   {
     id: 31,
@@ -532,7 +561,7 @@ export const people = [
     email: "b24ci1045@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/pranjal_shukla.png"
+    image: "/images/people/pranjal_shukla.png",
   },
   {
     id: 32,
@@ -543,7 +572,7 @@ export const people = [
     email: "b24edp007@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/herschelle_sharma.png"
+    image: "/images/people/herschelle_sharma.png",
   },
   {
     id: 33,
@@ -554,7 +583,7 @@ export const people = [
     email: "b23cs1027@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/krishna_saglani.png"
+    image: "/images/people/krishna_saglani.png",
   },
   {
     id: 34,
@@ -565,7 +594,7 @@ export const people = [
     email: "b23ch1038@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/raj_khedkar.png"
+    image: "/images/people/raj_khedkar.png",
   },
   {
     id: 35,
@@ -576,7 +605,7 @@ export const people = [
     email: "b23me1039@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/nikhil_yadav.png"
+    image: "/images/people/nikhil_yadav.png",
   },
   {
     id: 36,
@@ -587,7 +616,7 @@ export const people = [
     email: "pratyush@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/pratyush_chauhan.png"
+    image: "/images/people/pratyush_chauhan.png",
   },
   {
     id: 37,
@@ -598,7 +627,8 @@ export const people = [
     email: "b23ee1099@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/sohom_sarkar.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMLjaqDOjbE3HckTCAQl45jLp0gyDFZUmf16io",
   },
   {
     id: 38,
@@ -609,7 +639,8 @@ export const people = [
     email: "b23ee1076@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/Mrudhul_Tula.jpg"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMV7K1tZ36ryjvLQJ10esAiq5mEnpRSPltkGTF",
   },
   {
     id: 54,
@@ -620,7 +651,8 @@ export const people = [
     email: "b23ee1076@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/priyanshu_shah.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM5utqN5Rvk3YhnSx0XFQRLUOKwegmJfCBHDcl",
   },
   {
     id: 55,
@@ -631,7 +663,8 @@ export const people = [
     email: "b23ee1076@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/goutham_a_s.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMhwSkzY1nwALUzhiJOrGlbjVNadHTBtuRWY12",
   },
   {
     id: 56,
@@ -642,7 +675,8 @@ export const people = [
     email: "b23ee1076@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/agam_h_singh.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMawCCUDfceJmhow4nXI6bRATDOSCcuqytEx83",
   },
   {
     id: 57,
@@ -653,7 +687,8 @@ export const people = [
     email: "b23ee1076@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/rudra_thakar.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMOApBmzVCBGaMLh0KoSFbQ2uNPJsT6xvnkrWH",
   },
   {
     id: 39,
@@ -664,7 +699,7 @@ export const people = [
     email: "b23cs1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/lakshya_jain.png"
+    image: "/images/people/lakshya_jain.png",
   },
   {
     id: 40,
@@ -675,7 +710,7 @@ export const people = [
     email: "b23cs1088@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aradhya_mahajan.png"
+    image: "/images/people/aradhya_mahajan.png",
   },
   {
     id: 41,
@@ -686,7 +721,7 @@ export const people = [
     email: "b23cs1005@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/arun_kumar.png"
+    image: "/images/people/arun_kumar.png",
   },
   {
     id: 42,
@@ -697,7 +732,8 @@ export const people = [
     email: "b23cy1019@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/sanchit_garg.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMFqRdAsvDoYjZrL4UGgklRhXWKmb1dsSi8BJf",
   },
   {
     id: 43,
@@ -708,7 +744,8 @@ export const people = [
     email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/poojan_patel.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMXRhWLNp8nOm9BbZ8AUWNXVFpe2gvisLhSClD",
   },
   {
     id: 58,
@@ -719,7 +756,8 @@ export const people = [
     email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/chanchal_yadav.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMVIUHBlh36ryjvLQJ10esAiq5mEnpRSPltkGT",
   },
   {
     id: 59,
@@ -730,7 +768,8 @@ export const people = [
     email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/asmita_de.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMSXZQiWxJM8FTNHtClQ4GPxKof2ri3UXZO7V0",
   },
   {
     id: 60,
@@ -741,7 +780,8 @@ export const people = [
     email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/ishan_rajpurohit.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMJHrjfZBf0qbSmT4GYKoFypatPQcxRkX195UC",
   },
   {
     id: 61,
@@ -752,7 +792,8 @@ export const people = [
     email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/vishal_dhaniya.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMVNS2K836ryjvLQJ10esAiq5mEnpRSPltkGTF",
   },
   {
     id: 62,
@@ -763,7 +804,8 @@ export const people = [
     email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/gaurav_goswami.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMF7W0WMvDoYjZrL4UGgklRhXWKmb1dsSi8BJf",
   },
   {
     id: 63,
@@ -774,7 +816,8 @@ export const people = [
     email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/rohit_rajdhar.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM8Th1Gnp5n2WrtYuFCDq7fZHLbAJGzR1do0VI",
   },
   {
     id: 44,
@@ -785,7 +828,7 @@ export const people = [
     email: "b24cs1057@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/pranshu_desai.png"
+    image: "/images/people/pranshu_desai.png",
   },
   {
     id: 45,
@@ -796,7 +839,8 @@ export const people = [
     email: "b23ph1001@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aditya_arya.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMWFE38CXQMqbLK4kijAz8GBa7nZvfC3eOhlyP",
   },
   {
     id: 46,
@@ -807,7 +851,8 @@ export const people = [
     email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/jenish_thakkar.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMSsNL4txJM8FTNHtClQ4GPxKof2ri3UXZO7V0",
   },
   {
     id: 64,
@@ -818,7 +863,8 @@ export const people = [
     email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/harshiv_shah.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMvNIRuP2OuFd2KzIsP8yLvjrxJ1i7HX4pmBRc",
   },
   {
     id: 65,
@@ -829,7 +875,8 @@ export const people = [
     email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/arpan_jain.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMhbYXt61nwALUzhiJOrGlbjVNadHTBtuRWY12",
   },
   {
     id: 66,
@@ -840,7 +887,8 @@ export const people = [
     email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/naman_soni.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMZ4pBInoTGuBbzSMFc8Y2mNx0EQdkA7fhvjia",
   },
   {
     id: 67,
@@ -851,7 +899,8 @@ export const people = [
     email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/mahi_upadhyay.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMR6fSrxTQ3Wuyv6SaiXCdfzVsJN4et8oAc1bE",
   },
   {
     id: 68,
@@ -862,7 +911,8 @@ export const people = [
     email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/prushti_thumar.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMFMnH0JvDoYjZrL4UGgklRhXWKmb1dsSi8BJf",
   },
   {
     id: 69,
@@ -873,7 +923,8 @@ export const people = [
     email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/shiv_jee_yadav.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMQKFRlyj7obmOc1TIiZ9JNFqdeCM6nuE0ghtP",
   },
   {
     id: 70,
@@ -884,7 +935,8 @@ export const people = [
     email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/arni_godiawala.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM5zcrnQRvk3YhnSx0XFQRLUOKwegmJfCBHDcl",
   },
   {
     id: 71,
@@ -895,7 +947,8 @@ export const people = [
     email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/nakshatra_sharma.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMMRHgOqihWwQlHop54A38Prysv9UfXEdD7bTK",
   },
   {
     id: 72,
@@ -906,7 +959,8 @@ export const people = [
     email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/iftikhar_alam.png"
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMROc2BXTQ3Wuyv6SaiXCdfzVsJN4et8oAc1bE",
   },
   {
     id: 47,
@@ -917,7 +971,7 @@ export const people = [
     email: "r23ab0004@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/md_shaheen_perwez.png"
+    image: "/images/people/md_shaheen_perwez.png",
   },
   {
     id: 48,
@@ -928,7 +982,7 @@ export const people = [
     email: "b23es1003@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/adithya_subhash.png"
+    image: "/images/people/adithya_subhash.png",
   },
   {
     id: 49,
@@ -939,7 +993,7 @@ export const people = [
     email: "b24ee1091@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/arhaan_natekar.png"
+    image: "/images/people/arhaan_natekar.png",
   },
   {
     id: 50,
@@ -950,7 +1004,7 @@ export const people = [
     email: "m24ph1012@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/prashant_singh_thakur.png"
+    image: "/images/people/prashant_singh_thakur.png",
   },
   {
     id: 51,
@@ -961,7 +1015,7 @@ export const people = [
     email: "m24id1009@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/shivam_kumar.png"
+    image: "/images/people/shivam_kumar.png",
   },
   {
     id: 52,
@@ -972,7 +1026,7 @@ export const people = [
     email: "b23bb1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/prakhar_chauhan.png"
+    image: "/images/people/prakhar_chauhan.png",
   },
   {
     id: 53,
@@ -983,41 +1037,61 @@ export const people = [
     email: "b23me1019@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/divyansh_vyas.png"
-  }
+    image: "/images/people/divyansh_vyas.png",
+  },
 ];
 
 export const clubMembers = {
-  technicalClubs: people.filter(p => p.category === 'technical-club').reduce((acc, curr) => {
-      const clubName = curr.club || curr.pors.find(p => p.includes('Coordinator'))?.split(', ')[1] || 'Unknown';
-      if (!acc.find(c => c.clubName === clubName)) {
-          acc.push({ clubName, members: [] });
+  technicalClubs: people
+    .filter((p) => p.category === "technical-club")
+    .reduce((acc, curr) => {
+      const clubName =
+        curr.club ||
+        curr.pors.find((p) => p.includes("Coordinator"))?.split(", ")[1] ||
+        "Unknown";
+      if (!acc.find((c) => c.clubName === clubName)) {
+        acc.push({ clubName, members: [] });
       }
-      acc.find(c => c.clubName === clubName)?.members.push(curr);
+      acc.find((c) => c.clubName === clubName)?.members.push(curr);
       return acc;
-  }, []),
-  culturalClubs: people.filter(p => p.category === 'cultural-club').reduce((acc, curr) => {
-      const clubName = curr.club || curr.pors.find(p => p.includes('Coordinator'))?.split(', ')[1] || 'Unknown';
-      if (!acc.find(c => c.clubName === clubName)) {
-          acc.push({ clubName, members: [] });
+    }, []),
+  culturalClubs: people
+    .filter((p) => p.category === "cultural-club")
+    .reduce((acc, curr) => {
+      const clubName =
+        curr.club ||
+        curr.pors.find((p) => p.includes("Coordinator"))?.split(", ")[1] ||
+        "Unknown";
+      if (!acc.find((c) => c.clubName === clubName)) {
+        acc.push({ clubName, members: [] });
       }
-      acc.find(c => c.clubName === clubName)?.members.push(curr);
+      acc.find((c) => c.clubName === clubName)?.members.push(curr);
       return acc;
-  }, []),
-  sportsClubs: people.filter(p => p.category === 'sports-club').reduce((acc, curr) => {
-      const clubName = curr.club || curr.pors.find(p => p.includes('Coordinator'))?.split(', ')[1] || 'Unknown';
-      if (!acc.find(c => c.clubName === clubName)) {
-          acc.push({ clubName, members: [] });
+    }, []),
+  sportsClubs: people
+    .filter((p) => p.category === "sports-club")
+    .reduce((acc, curr) => {
+      const clubName =
+        curr.club ||
+        curr.pors.find((p) => p.includes("Coordinator"))?.split(", ")[1] ||
+        "Unknown";
+      if (!acc.find((c) => c.clubName === clubName)) {
+        acc.push({ clubName, members: [] });
       }
-      acc.find(c => c.clubName === clubName)?.members.push(curr);
+      acc.find((c) => c.clubName === clubName)?.members.push(curr);
       return acc;
-  }, []),
-  academicSocieties: people.filter(p => p.category === 'academic-society').reduce((acc, curr) => {
-      const clubName = curr.club || curr.pors.find(p => p.includes('Secretary'))?.split(', ')[1] || 'Unknown';
-      if (!acc.find(c => c.clubName === clubName)) {
-          acc.push({ clubName, members: [] });
+    }, []),
+  academicSocieties: people
+    .filter((p) => p.category === "academic-society")
+    .reduce((acc, curr) => {
+      const clubName =
+        curr.club ||
+        curr.pors.find((p) => p.includes("Secretary"))?.split(", ")[1] ||
+        "Unknown";
+      if (!acc.find((c) => c.clubName === clubName)) {
+        acc.push({ clubName, members: [] });
       }
-      acc.find(c => c.clubName === clubName)?.members.push(curr);
+      acc.find((c) => c.clubName === clubName)?.members.push(curr);
       return acc;
-  }, []),
+    }, []),
 };
