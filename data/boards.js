@@ -78,7 +78,7 @@ export const SACBoards = [
     {
         title: "Board of Art & Culture (BAC)",
         fullform: "Board of Art & Culture",
-        imageurl: "",
+        imageurl: "/images/logos/bac.png",
         holder: "Vaibhav Singh",
         about: "The Board of Art & Culture (BAC) organizes and promotes cultural events, fostering creativity and appreciation for the arts within the campus community.",
         contactInfo: "bac@iitj.ac.in",
@@ -90,7 +90,7 @@ export const SACBoards = [
     {
         title: "Board of Student Sports (BSS)",
         fullform: "Board of Student Sports",
-        imageurl: "",
+        imageurl: "/images/logos/bss.jpg",
         holder: "Sudhanshu Tamhankar",
         about: "The Board of Student Sports (BSS) manages sports activities, events, and facilities, encouraging physical fitness and sportsmanship among students.",
         contactInfo: "bss@iitj.ac.in phone",
@@ -127,7 +127,7 @@ export const SACBoards = [
     {
         title: "Board of Literary Affairs (BLA)",
         fullform: "Board of Literary Affairs",
-        imageurl: "",
+        imageurl: "/images/logos/bla.png",
         holder: "Anshit Agarwal",
         about: "The Board of Literary Affairs (BLA) promotes literary activities, debates, and competitions, nurturing a culture of reading, writing, and critical thinking.",
         contactInfo: "bla@iitj.ac.in",
