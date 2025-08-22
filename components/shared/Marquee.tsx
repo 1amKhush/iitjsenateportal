@@ -2,7 +2,6 @@
 
 import React, { useEffect } from "react";
 import Marquee from "react-fast-marquee";
-import Image from "next/image";
 import { motion, useAnimation } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 
