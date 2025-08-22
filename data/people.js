@@ -46,7 +46,7 @@ export const people = [
     email: "b23cs1092@iitj.ac.in",
     phone: "+91 9667164576",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/krish_teckchandani.png"
   },
   {
     id: 5,
@@ -56,7 +56,7 @@ export const people = [
     email: "b23ee1071@iitj.ac.in",
     phone: "+91 8937085795",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/sourav_chahar.png"
   },
   {
     id: 6,
@@ -66,7 +66,7 @@ export const people = [
     email: "vp_bcd@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/anchitya_kumar.png"
   },
   {
     id: 7,
@@ -76,7 +76,7 @@ export const people = [
     email: "b23es1020@iitj.ac.in",
     phone: "+91 7499027852",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/Raghuveer_Kulkarni.jpg"
   },
   {
     id: 8,
@@ -86,7 +86,7 @@ export const people = [
     email: "b23cm1058@iitj.ac.in",
     phone: "+91 9998708013",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/vyom_shah.png"
   },
   {
     id: 9,
@@ -96,7 +96,7 @@ export const people = [
     email: "b23ee1092@iitj.ac.in",
     phone: "+91 9508798686",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/Sambhav_Jha.jpg"
   },
   {
     id: 10,
@@ -106,7 +106,7 @@ export const people = [
     email: "b23ee1101@iitj.ac.in",
     phone: "+91 9599239032",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/vaibhav_singh.png"
   },
   {
     id: 11,
@@ -116,7 +116,7 @@ export const people = [
     email: "b23es1032@iitj.ac.in",
     phone: "+91 6355798073",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/sudhanshu_tamhankar.png"
   },
   {
     id: 12,
@@ -126,7 +126,7 @@ export const people = [
     email: "b23cs1087@iitj.ac.in",
     phone: "+91 8006337201",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/anshit_agarwal.png"
   },
   {
     id: 13,
@@ -136,9 +136,8 @@ export const people = [
     email: "vp_bha@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/harsh_kumar.png"
   },
-  // Cultural Club Members
   {
     id: 14,
     name: "Aashish Ranjan",
@@ -148,7 +147,7 @@ export const people = [
     email: "b24edp013@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/aashish_ranjan.png"
   },
   {
     id: 15,
@@ -159,7 +158,7 @@ export const people = [
     email: "b24edm010@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/ashish_kurrey.png"
   },
   {
     id: 16,
@@ -170,7 +169,7 @@ export const people = [
     email: "b24ci1037@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/nitesh_yadav.png"
   },
   {
     id: 17,
@@ -181,7 +180,7 @@ export const people = [
     email: "b24ee1062@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/aditya_rathod.png"
   },
   {
     id: 18,
@@ -192,7 +191,7 @@ export const people = [
     email: "b24bb1004@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/akshat_rathore.png"
   },
   {
     id: 19,
@@ -203,7 +202,7 @@ export const people = [
     email: "b24es1024@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/harsh_raj.png"
   },
   {
     id: 20,
@@ -214,7 +213,7 @@ export const people = [
     email: "b23cm1039@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/soham_khairnar.png"
   },
   {
     id: 21,
@@ -225,7 +224,7 @@ export const people = [
     email: "b24cs1049@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/sumana_nimmagadda.png"
   },
   {
     id: 22,
@@ -236,7 +235,7 @@ export const people = [
     email: "b24ci1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/mudit_kumar_singh.png"
   },
   {
     id: 23,
@@ -247,7 +246,51 @@ export const people = [
     email: "b23cs1089@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/arpan_jain.png"
+  },
+  {
+    id: 76,
+    name: "Arpan Jain",
+    pors: ["Secretary, Quiz Society"],
+    category: "cultural-club",
+    club: "Quiz Society",
+    email: "b23cs1089@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/arpan_jain.png"
+  },
+  {
+    id: 77,
+    name: "Archie Singh",
+    pors: ["Joint Secretary, Quiz Society"],
+    category: "cultural-club",
+    club: "Quiz Society",
+    email: "b23cs1089@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/archie_singh.png"
+  },
+  {
+    id: 78,
+    name: "Sai Akshar",
+    pors: ["Joint Secretary, Quiz Society"],
+    category: "cultural-club",
+    club: "Quiz Society",
+    email: "b23cs1089@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/sai_akshar.png"
+  },
+  {
+    id: 79,
+    name: "Ojaswi Gupta",
+    pors: ["Joint Secretary, Quiz Society"],
+    category: "cultural-club",
+    club: "Quiz Society",
+    email: "b23cs1089@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/ojaswi_gupta.png"
   },
   {
     id: 24,
@@ -258,10 +301,76 @@ export const people = [
     email: "b23cs1002@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/aaryan_agrawal.png"
+  },
+  {
+    id: 73,
+    name: "Aarssh",
+    pors: ["Joint Secretary, Literature Society"],
+    category: "cultural-club",
+    club: "Literature Society",
+    email: "b23cs1002@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/aarssh.png"
+  },
+  {
+    id: 74,
+    name: "Sarra",
+    pors: ["Joint Secretary, Literature Society"],
+    category: "cultural-club",
+    club: "Literature Society",
+    email: "b23cs1002@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/sarra.png"
+  },
+  {
+    id: 75,
+    name: "Shiv Shome",
+    pors: ["Joint Secretary, Literature Society"],
+    category: "cultural-club",
+    club: "Literature Society",
+    email: "b23cs1002@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/shiv_shome.png"
   },
   {
     id: 25,
+    name: "Shrey Shah",
+    pors: ["Joint Secretary, PHEME"],
+    category: "cultural-club",
+    club: "PHEME",
+    email: "b23ch1032@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/shrey_shah.png"
+  },
+  {
+    id: 80,
+    name: "Vineet",
+    pors: ["Joint Secretary, PHEME"],
+    category: "cultural-club",
+    club: "PHEME",
+    email: "b23ch1032@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/vineet.png"
+  },
+  {
+    id: 81,
+    name: "Pratham Karmakar",
+    pors: ["Joint Secretary, PHEME"],
+    category: "cultural-club",
+    club: "PHEME",
+    email: "b23ch1032@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/pratham_karmakar.png"
+  },
+  {
+    id: 82,
     name: "Darshan Prajapati",
     pors: ["Secretary, PHEME"],
     category: "cultural-club",
@@ -269,9 +378,96 @@ export const people = [
     email: "b23ch1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/darshan_prajapati.png"
   },
-  // Sports Club Members
+  {
+    id: 83,
+    name: "Pragay",
+    pors: ["Secretary, RAID"],
+    category: "technical-club",
+    club: "RAID",
+    email: "b23ch1032@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/Pragay.png"
+  },
+  {
+    id: 84,
+    name: "Vishal Kishore",
+    pors: ["Secretary, RAID"],
+    category: "technical-club",
+    club: "RAID",
+    email: "b23ch1032@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/Vishal_Kishore.png"
+  },
+  {
+    id: 85,
+    name: "Sirin Changulani",
+    pors: ["Secretary, RAID"],
+    category: "technical-club",
+    club: "RAID",
+    email: "b23ch1032@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/Sirin_Changulani.png"
+  },
+  {
+    id: 85,
+    name: "Siddh Mehta",
+    pors: ["Secretary, Boltheads"],
+    category: "technical-club",
+    club: "BoltHeads",
+    email: "b23ch1032@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/Siddh_Mehta.png"
+  },
+  {
+    id: 85,
+    name: "SAKSHAM KURAI",
+    pors: ["Coordinator, Boltheads"],
+    category: "technical-club",
+    club: "BoltHeads",
+    email: "b23ch1032@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/SAKSHAM_KURAI.png"
+  },
+  {
+    id: 85,
+    name: "NALLAGONDA DHARSHAN",
+    pors: ["Coordinator, Boltheads"],
+    category: "technical-club",
+    club: "BoltHeads",
+    email: "b23ch1032@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/NALLAGONDA_DHARSHAN.png"
+  },
+  {
+    id: 85,
+    name: "AVULA VARSHITHA REDDY",
+    pors: ["Coordinator, Boltheads"],
+    category: "technical-club",
+    club: "BoltHeads",
+    email: "b23ch1032@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/AVULA_VARSHITHA_REDDY.png"
+  },
+  {
+    id: 85,
+    name: "ATMAKURI SAI GAYATHRI",
+    pors: ["Coordinator, Boltheads"],
+    category: "technical-club",
+    club: "BoltHeads",
+    email: "b23ch1032@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/ATMAKURI_SAI_GAYATHRI.png"
+  },
   {
     id: 26,
     name: "Shiv Shome",
@@ -281,7 +477,7 @@ export const people = [
     email: "b24es1031@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/shiv_shome.png"
   },
   {
     id: 27,
@@ -292,7 +488,7 @@ export const people = [
     email: "b24me1045@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/manas_methi.png"
   },
   {
     id: 28,
@@ -303,7 +499,7 @@ export const people = [
     email: "b24cm1004@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/aditya_ranjan.png"
   },
   {
     id: 29,
@@ -314,7 +510,7 @@ export const people = [
     email: "b24cm1044@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/manthan_nayak.png"
   },
   {
     id: 30,
@@ -325,7 +521,7 @@ export const people = [
     email: "b24ci1033@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/mugdha_ghodke.png"
   },
   {
     id: 31,
@@ -336,7 +532,7 @@ export const people = [
     email: "b24ci1045@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/pranjal_shukla.png"
   },
   {
     id: 32,
@@ -347,7 +543,7 @@ export const people = [
     email: "b24edp007@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/herschelle_sharma.png"
   },
   {
     id: 33,
@@ -358,7 +554,7 @@ export const people = [
     email: "b23cs1027@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/krishna_saglani.png"
   },
   {
     id: 34,
@@ -369,7 +565,7 @@ export const people = [
     email: "b23ch1038@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/raj_khedkar.png"
   },
   {
     id: 35,
@@ -380,7 +576,7 @@ export const people = [
     email: "b23me1039@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/nikhil_yadav.png"
   },
   {
     id: 36,
@@ -391,9 +587,8 @@ export const people = [
     email: "pratyush@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/pratyush_chauhan.png"
   },
-  // Technical Club Members
   {
     id: 37,
     name: "Sohom Sarkar",
@@ -403,7 +598,7 @@ export const people = [
     email: "b23ee1099@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/sohom_sarkar.png"
   },
   {
     id: 38,
@@ -414,7 +609,51 @@ export const people = [
     email: "b23ee1076@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/Mrudhul_Tula.jpg"
+  },
+  {
+    id: 54,
+    name: "Priyanshu Shah",
+    pors: ["Coordinator, Robotics Society"],
+    category: "technical-club",
+    club: "Robotics Society",
+    email: "b23ee1076@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/priyanshu_shah.png"
+  },
+  {
+    id: 55,
+    name: "Goutham A S",
+    pors: ["Coordinator, Robotics Society"],
+    category: "technical-club",
+    club: "Robotics Society",
+    email: "b23ee1076@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/goutham_a_s.png"
+  },
+  {
+    id: 56,
+    name: "Agam H Singh",
+    pors: ["Coordinator, Robotics Society"],
+    category: "technical-club",
+    club: "Robotics Society",
+    email: "b23ee1076@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/agam_h_singh.png"
+  },
+  {
+    id: 57,
+    name: "Rudra Thakar",
+    pors: ["Coordinator, Robotics Society"],
+    category: "technical-club",
+    club: "Robotics Society",
+    email: "b23ee1076@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/rudra_thakar.png"
   },
   {
     id: 39,
@@ -425,7 +664,7 @@ export const people = [
     email: "b23cs1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/lakshya_jain.png"
   },
   {
     id: 40,
@@ -436,7 +675,7 @@ export const people = [
     email: "b23cs1088@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/aradhya_mahajan.png"
   },
   {
     id: 41,
@@ -447,7 +686,7 @@ export const people = [
     email: "b23cs1005@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/arun_kumar.png"
   },
   {
     id: 42,
@@ -458,7 +697,7 @@ export const people = [
     email: "b23cy1019@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/sanchit_garg.png"
   },
   {
     id: 43,
@@ -469,7 +708,73 @@ export const people = [
     email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/poojan_patel.png"
+  },
+  {
+    id: 58,
+    name: "Chanchal Yadav",
+    pors: ["Events Head, Product Club"],
+    category: "technical-club",
+    club: "Product Club",
+    email: "b23ee1053@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/chanchal_yadav.png"
+  },
+  {
+    id: 59,
+    name: "Asmita De",
+    pors: ["Events Head, Product Club"],
+    category: "technical-club",
+    club: "Product Club",
+    email: "b23ee1053@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/asmita_de.png"
+  },
+  {
+    id: 60,
+    name: "Ishan Rajpurohit",
+    pors: ["Design Head, Product Club"],
+    category: "technical-club",
+    club: "Product Club",
+    email: "b23ee1053@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/ishan_rajpurohit.png"
+  },
+  {
+    id: 61,
+    name: "Vishal Dhaniya",
+    pors: ["Media & Outreach Head, Product Club"],
+    category: "technical-club",
+    club: "Product Club",
+    email: "b23ee1053@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/vishal_dhaniya.png"
+  },
+  {
+    id: 62,
+    name: "Gaurav Goswami",
+    pors: ["Media & Outreach Head, Product Club"],
+    category: "technical-club",
+    club: "Product Club",
+    email: "b23ee1053@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/gaurav_goswami.png"
+  },
+  {
+    id: 63,
+    name: "Rohit Rajdhar",
+    pors: ["Media & Outreach Head, Product Club"],
+    category: "technical-club",
+    club: "Product Club",
+    email: "b23ee1053@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/rohit_rajdhar.png"
   },
   {
     id: 44,
@@ -480,7 +785,7 @@ export const people = [
     email: "b24cs1057@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/pranshu_desai.png"
   },
   {
     id: 45,
@@ -491,7 +796,7 @@ export const people = [
     email: "b23ph1001@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/aditya_arya.png"
   },
   {
     id: 46,
@@ -502,9 +807,107 @@ export const people = [
     email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/jenish_thakkar.png"
   },
-  // Academic Society Members
+  {
+    id: 64,
+    name: "Harshiv Shah",
+    pors: ["Mentor, Quant Club"],
+    category: "technical-club",
+    club: "Quant Club",
+    email: "b23ee1087@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/harshiv_shah.png"
+  },
+  {
+    id: 65,
+    name: "Arpan Jain",
+    pors: ["Mentor, PSoc"],
+    category: "technical-club",
+    club: "Programming Society",
+    email: "b23ee1087@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/arpan_jain.png"
+  },
+  {
+    id: 66,
+    name: "Naman Soni",
+    pors: ["Mentor, Psoc"],
+    category: "technical-club",
+    club: "Programming Society",
+    email: "b23ee1087@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/naman_soni.png"
+  },
+  {
+    id: 67,
+    name: "Mahi Upadhyay",
+    pors: ["Coordinator, Nexus"],
+    category: "technical-club",
+    club: "Nexus",
+    email: "b23ee1087@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/mahi_upadhyay.png"
+  },
+  {
+    id: 68,
+    name: "Prushti Thumar",
+    pors: ["Coordinator, Nexus"],
+    category: "technical-club",
+    club: "Nexus",
+    email: "b23ee1087@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/prushti_thumar.png"
+  },
+  {
+    id: 69,
+    name: "Shiv Jee Yadav",
+    pors: ["Coordinator, Nexus"],
+    category: "technical-club",
+    club: "Nexus",
+    email: "b23ee1087@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/shiv_jee_yadav.png"
+  },
+  {
+    id: 70,
+    name: "Arni godiawala",
+    pors: ["Coordinator, INSIDE"],
+    category: "technical-club",
+    club: "INSIDE",
+    email: "b23ee1087@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/arni_godiawala.png"
+  },
+  {
+    id: 71,
+    name: "Nakshatra sharma",
+    pors: ["Coordinator, INSIDE"],
+    category: "technical-club",
+    club: "INSIDE",
+    email: "b23ee1087@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/nakshatra_sharma.png"
+  },
+  {
+    id: 72,
+    name: "Iftikhar Alam",
+    pors: ["Coordinator, INSIDE"],
+    category: "technical-club",
+    club: "INSIDE",
+    email: "b23ee1087@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/iftikhar_alam.png"
+  },
   {
     id: 47,
     name: "Md Shaheen Perwez",
@@ -514,7 +917,7 @@ export const people = [
     email: "r23ab0004@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/md_shaheen_perwez.png"
   },
   {
     id: 48,
@@ -525,7 +928,7 @@ export const people = [
     email: "b23es1003@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/adithya_subhash.png"
   },
   {
     id: 49,
@@ -536,7 +939,7 @@ export const people = [
     email: "b24ee1091@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/arhaan_natekar.png"
   },
   {
     id: 50,
@@ -547,7 +950,7 @@ export const people = [
     email: "m24ph1012@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/prashant_singh_thakur.png"
   },
   {
     id: 51,
@@ -558,7 +961,7 @@ export const people = [
     email: "m24id1009@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/shivam_kumar.png"
   },
   {
     id: 52,
@@ -569,7 +972,7 @@ export const people = [
     email: "b23bb1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/prakhar_chauhan.png"
   },
   {
     id: 53,
@@ -580,7 +983,7 @@ export const people = [
     email: "b23me1019@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/default.jpg"
+    image: "/images/people/divyansh_vyas.png"
   }
 ];
 

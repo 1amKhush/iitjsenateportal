@@ -2,7 +2,7 @@ export const ACACBoards = [
     {
         title: "Board of Academic Interaction (BAI)",
         fullform: "Board of Academic Interaction",
-        imageurl: "",
+        imageurl: "/images/logo/bai.jpg",
         holder: "Krish Teckchandani",
         about: "The Board of Academic Interaction (BAI) is responsible for facilitating academic discussions and interactions within the institute, promoting a culture of academic excellence and collaboration.",
         contactInfo: "bai@iitj.ac.in phone",
@@ -15,7 +15,7 @@ export const ACACBoards = [
     {
         title: "Board of Departmental Societies (BDS)",
         fullform: "Board of Departmental Societies",
-        imageurl: "",
+        imageurl: "/images/logo/bds.png",
         holder: "Sourav Chahar",
         about: "The Board of Departmental Societies (BDS) oversees and coordinates the activities of various departmental societies, fostering academic and professional growth among students within their respective departments.",
         contactInfo: "bds@iitj.ac.in",
@@ -27,7 +27,7 @@ export const ACACBoards = [
     {
         title: "Board of Career Development (BCD)",
         fullform: "Board of Career Development",
-        imageurl: "",
+        imageurl: "/images/logo/bcd.png",
         holder: "Anchitya Kumar",
         about: "The Board of Career Development (BCD) provides guidance, resources, and opportunities for students to enhance their career prospects, including internships, placements, and skill development.",
         contactInfo: "bcd@iitj.ac.in",
@@ -39,7 +39,7 @@ export const ACACBoards = [
     {
         title: "Society of Alumni Affairs (SAA)",
         fullform: "Society of Alumni Affairs",
-        imageurl: "",
+        imageurl: "/images/logo/saa.png",
         holder: "Raghuveer Kulkarni",
         about: "The Society of Alumni Affairs (SAA) connects current students with alumni, organizes alumni events, and fosters a strong network for mentorship and collaboration.",
         contactInfo: "saa@iitj.ac.in",
@@ -51,7 +51,7 @@ export const ACACBoards = [
     {
         title: "Board of Innovation and Entrepreneurship (BIE)",
         fullform: "Board of Innovation and Entrepreneurship",
-        imageurl: "",
+        imageurl: "/images/logo/bie.png",
         holder: "Vyom Shah",
         about: "The Board of Innovation and Entrepreneurship (BIE) encourages and supports entrepreneurial initiatives, innovation, and start-up culture among students.",
         contactInfo: "bie@iitj.ac.in",
@@ -63,7 +63,7 @@ export const ACACBoards = [
     {
         title: "Board of Co Curricular Affairs (BCCA)",
         fullform: "Board of Co-Curricular Affairs",
-        imageurl: "",
+        imageurl: "/images/logo/bcca.png",
         holder: "Sambhav Jha",
         about: "The Board of Co-Curricular Affairs (BCCA) manages and promotes co-curricular activities, ensuring holistic development and engagement of students beyond academics.",
         contactInfo: "bcca@iitj.ac.in",

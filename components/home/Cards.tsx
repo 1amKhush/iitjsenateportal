@@ -40,7 +40,14 @@ const Cards: React.FC = () => {
   return (
     <div className="flex flex-col items-center gap-16 py-10 bg-gray-900 text-white">
       <CardGrid title="Councils under the Student Body" cols={3} items={councilItems} />
-      <CardGrid title="Boards under ACAC" cols={3} items={acacItems} />
+      <section className="w-full max-w-6xl mx-auto px-4">
+        <h2 className="text-3xl font-bold mb-10 text-center text-fulvous">Boards under ACAC</h2>
+        <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-3">
+          {acacItems.map((item, i) => (
+            <InfoCard key={i} title={item.title} imageurl={item.imageurl}/>
+          ))}
+        </div>
+      </section>
 
       <section className="w-full max-w-6xl mx-auto px-4">
         <h2 className="text-3xl font-bold mb-10 text-center text-fulvous">Boards under SAC</h2>
@@ -55,12 +62,12 @@ const Cards: React.FC = () => {
         data={acacClubs}
         marqueeTitle="Societies under ACAC"
         minItemsPerRow={3}
-        maxItemsPerRow={5}
+        maxItemsPerRow={3}
       />
       <InfiniteMarquee
         data={sacClubs}
         marqueeTitle="Societies under SAC"
-        maxItemsPerRow={9}
+        maxItemsPerRow={10}
       />
     </div>
   );
