@@ -106,18 +106,7 @@ const InfiniteMarquee: React.FC<InfiniteMarqueeProps> = ({
                     whileHover={cardHoverVariant}
                     initial={false}
                   >
-                    <Image
-                      src='/images/IITJ/logo/iitjlogo.png'
-                      alt={item.title}
-                      width={40}
-                      height={40}
-                      className="rounded-full object-cover flex-shrink-0"
-                      onError={(e) => {
-                        e.currentTarget.onerror = null;
-                        e.currentTarget.src = '/images/IITJ/logo/iitjlogo.png'; // Fallback
-                      }}
-                    />
-                    <span className="w-full text-base font-medium text-center text-white">{item.title}</span>
+                    <span className="w-full text-base font-medium text-center text-white font-['Poppins']">{item.title}</span>
                   </motion.div>
                 ))}
               </div>
