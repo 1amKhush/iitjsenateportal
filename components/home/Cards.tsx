@@ -1,7 +1,7 @@
 import React from 'react';
 import { councils } from '@/data/councils';
 import { ACACBoards, SACBoards } from '@/data/boards';
-import { BCCAClubs, BLAClubs, BACClubs, BSSClubs, SAAClubs } from '@/data/clubs';
+import { BCCAClubs, BLAClubs, BACClubs, BSSClubs, SAAClubs, IRteam } from '@/data/clubs';
 import CardGrid from '../shared/CardGrid';
 import InfiniteMarquee from '../shared/Marquee';
 import InfoCard from '../shared/InfoCard';
@@ -30,6 +30,7 @@ const Cards: React.FC = () => {
   const acacClubs = [
     ...mapItemsForMarquee(BCCAClubs),
     ...mapItemsForMarquee(SAAClubs),
+    ...mapItemsForMarquee(IRteam),
   ];
   const sacClubs = [
     ...mapItemsForMarquee(BLAClubs),
