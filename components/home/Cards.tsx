@@ -28,6 +28,7 @@ const Cards: React.FC = () => {
   const acacItems = mapItemsForCards(ACACBoards);
   const sacItems = mapItemsForCards(SACBoards);
   const acacClubs = [
+    ...mapItemsForMarquee(IRteam),
     ...mapItemsForMarquee(BCCAClubs),
     ...mapItemsForMarquee(SAAClubs),
     ...mapItemsForMarquee(IRteam),
