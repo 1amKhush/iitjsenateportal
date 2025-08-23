@@ -15,12 +15,12 @@ const developers = [
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMIHNZX02rlCtyuQhRTVH8EvYWUgswfek7SDmJ",
   },
-  {
-    name: "Anmol Mishra",
-    github: "https://github.com/AnmolM-777",
-    image:
-      "",
-  },
+  // {
+  //   name: "Anmol Mishra",
+  //   github: "https://github.com/AnmolM-777",
+  //   image:
+  //     "",
+  // },
 ];
 
 const AboutUsPage = () => {
@@ -32,7 +32,7 @@ const AboutUsPage = () => {
       </h1>
 
       {/* Developer Cards */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-10 w-full max-w-6xl">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-10 w-full max-w-3xl">
         {developers.map((dev, index) => (
           <div
             key={index}
