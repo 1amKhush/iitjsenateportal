@@ -72,10 +72,14 @@ const SenatePage = () => {
 
   // Renders a section for each club category
   const renderClubSection = (clubs: Club[], sectionId: string, sectionTitle: string) => {
+    const generateClubId = (clubName: string) => {
+      return clubName.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    };
+
     return (
       <Section id={sectionId} title={sectionTitle}>
         {clubs.map((club) => (
-          <div key={club.clubName} className="mb-12">
+          <div key={club.clubName} id={generateClubId(club.clubName)} className="mb-12 scroll-mt-20">
             <h3 className="text-2xl font-semibold text-gray-300 mb-6 text-center">
               {club.clubName}
             </h3>
@@ -113,6 +117,7 @@ const SenatePage = () => {
               <button onClick={() => scrollToSection('tech-clubs')} className="w-full text-left p-2 rounded hover:bg-gray-700/50 transition-colors">Technical Clubs</button>
               <button onClick={() => scrollToSection('cultural-clubs')} className="w-full text-left p-2 rounded hover:bg-gray-700/50 transition-colors">Cultural Clubs</button>
               <button onClick={() => scrollToSection('sports-clubs')} className="w-full text-left p-2 rounded hover:bg-gray-700/50 transition-colors">Sports Clubs</button>
+              <button onClick={() => scrollToSection('academic-societies')} className="w-full text-left p-2 rounded hover:bg-gray-700/50 transition-colors">Academic Societies</button>
               <button onClick={() => scrollToSection('other-societies')} className="w-full text-left p-2 rounded hover:bg-gray-700/50 transition-colors">Other Societies</button>
             </nav>
           </div>
@@ -189,6 +194,7 @@ const SenatePage = () => {
             {renderClubSection(clubMembers.technicalClubs, "tech-clubs", "Technical Clubs")}
             {renderClubSection(clubMembers.culturalClubs, "cultural-clubs", "Cultural Clubs")}
             {renderClubSection(clubMembers.sportsClubs, "sports-clubs", "Sports Clubs")}
+            {renderClubSection(clubMembers.academicSocieties, "academic-societies", "Academic Societies")}
             {renderClubSection(otherSocietiesAndCommitties, "other-societies", "Other Societies and Committees")}
           </>
         )}
