@@ -10,7 +10,7 @@ export const ACACBoards = [
             { label: "Instagram", href: "https://instagram.com/bai_iitj" },
             { label: "LinkedIn", href: "https://linkedin.com/in/bai_iitj" }
         ],
-        clubs: []
+        clubs: ["Student reperesentatives", "Class Representatives"]
     },
     {
         title: "Board of Departmental Societies (BDS)",
@@ -22,7 +22,7 @@ export const ACACBoards = [
         socialLinks: [
             { label: "Instagram", href: "https://instagram.com/bds_iitj" }
         ],
-        clubs: []
+        clubs: ["Departmental representatives"]
     },
     {
         title: "Board of Career Development (BCD)",
@@ -34,7 +34,7 @@ export const ACACBoards = [
         socialLinks: [
             { label: "LinkedIn", href: "https://linkedin.com/in/bcd_iitj" }
         ],
-        clubs: []
+        clubs: ["Placement representatives", "Intern Representatives"]
     },
     {
         title: "Society of Alumni Affairs (SAA)",
@@ -85,7 +85,7 @@ export const SACBoards = [
         socialLinks: [
             { label: "Instagram", href: "https://instagram.com/bac_iitj" }
         ],
-        clubs: ["TGT", "Atliers", "Designerds", "FrameX", "ShutterBugs", "Dramebaaz", "Sangam", "Raw", "Colonary club", "Fashion club"]
+        clubs: ["TGT", "Ateliers", "Designerds", "FrameX", "ShutterBugs", "Dramebaaz", "Sangam", "Raw", "Culinary Club", "Fashion club"]
     },
     {
         title: "Board of Student Sports (BSS)",
@@ -107,8 +107,8 @@ export const SACBoards = [
             "VoleyBall Soc",
             "Badminton Soc",
             "Chess Soc",
-            "Aquatics",
-            "Table tennis",
+            "Aquatics Soc",
+            "Table tennis Soc",
             "Kabbadi Soc"
         ]
     },
@@ -122,7 +122,7 @@ export const SACBoards = [
         socialLinks: [
             { label: "Website", href: "https://iitj.ac.in/bsw" }
         ],
-        clubs: []
+        clubs: ["Student Wellbieng Committee"]
     },
     {
         title: "Board of Literary Affairs (BLA)",
@@ -146,6 +146,6 @@ export const SACBoards = [
         socialLinks: [
             { label: "Instagram", href: "https://instagram.com/bha_iitj" }
         ],
-        clubs: []
+        clubs: ["Dining Committee", "Mess Committee", "Hostel Secretarys"]
     }
 ];

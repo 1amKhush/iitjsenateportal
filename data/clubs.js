@@ -168,7 +168,7 @@ export const BACClubs = [
   {
     title: "Culinary club",
     description: "Culinary club exploring food, cooking, and gastronomy.",
-    imageurl: "/images/clubs/bac/colonary-club.png",
+    imageurl: "/images/clubs/bac/culinary-club.png",
     holder: "",
     contactInfo: "colonaryclub@iitj.ac.in",
     socialLinks: [],

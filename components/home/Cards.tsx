@@ -40,9 +40,9 @@ const Cards: React.FC = () => {
   ];
 
   return (
-    <div className="flex flex-col items-center gap-16 py-10 bg-gray-900 text-white">
+    <div className="flex flex-col items-center gap-20 py-15 bg-gray-900 text-white">
       <CardGrid title="Councils under the Student Body" cols={3} items={councilItems} />
-      <section className="w-full max-w-6xl mx-auto px-4">
+      <section className="w-full max-w-7xl mx-auto px-4">
         <h2 className="text-3xl font-bold mb-10 text-center text-fulvous">Boards under ACAC</h2>
         <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-3">
           {acacItems.map((item, i) => (
@@ -51,7 +51,7 @@ const Cards: React.FC = () => {
         </div>
       </section>
 
-      <section className="w-full max-w-6xl mx-auto px-4">
+      <section className="w-full max-w-7xl mx-auto px-4">
         <h2 className="text-3xl font-bold mb-10 text-center text-fulvous">Boards under SAC</h2>
         <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-3">
           {sacItems.map((item, i) => (
