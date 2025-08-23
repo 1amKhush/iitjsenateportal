@@ -25,7 +25,7 @@ export const people = [
       instagram: "https://www.instagram.com/tharak_hegde/",
     },
     image:
-      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMa8bHDEceJmhow4nXI6bRATDOSCcuqytEx832",
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMpwq73DI1Cl4aMh6Ubs5TwG8PFAJSkj0WKHYu",
   },
   {
     id: 3,
@@ -341,7 +341,7 @@ export const people = [
     phone: "+91 1234567890",
     links: {},
     image:
-      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMbzaNs9QrJYjGCL0guqFMUsI3leyP8vRV9k4A",
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMaaA7IceJmhow4nXI6bRATDOSCcuqytEx832Y",
   },
   {
     id: 29,
@@ -470,7 +470,7 @@ export const people = [
 
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/lakshya_jain.png",
+    image: "",
   },
   {
     id: 40,
@@ -480,7 +480,7 @@ export const people = [
     club: "Devlup Labs",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aradhya_mahajan.png",
+    image: "",
   },
   {
     id: 41,
@@ -491,7 +491,7 @@ export const people = [
 
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/arun_kumar.png",
+    image: "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMvP4A6Y2OuFd2KzIsP8yLvjrxJ1i7HX4pmBRc",
   },
   {
     id: 42,
@@ -556,7 +556,7 @@ export const people = [
     club: "School of AI and Data Science",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/md_shaheen_perwez.png",
+    image: "",
   },
   {
     id: 48,
@@ -566,7 +566,7 @@ export const people = [
     club: "Engineering Science Society",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/adithya_subhash.png",
+    image: "",
   },
   {
     id: 49,
@@ -576,7 +576,7 @@ export const people = [
     club: "Department of Electrical Engineering",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/arhaan_natekar.png",
+    image: "",
   },
   {
     id: 50,
@@ -586,7 +586,7 @@ export const people = [
     club: "Department of Physics",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/prashant_singh_thakur.png",
+    image: "",
   },
   {
     id: 51,
@@ -596,7 +596,7 @@ export const people = [
     club: "Interdisciplinary Research Program",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/shivam_kumar.png",
+    image: "",
   },
   {
     id: 52,
@@ -606,7 +606,7 @@ export const people = [
     club: "School of Bioscience and Bioengineering",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/prakhar_chauhan.png",
+    image: "",
   },
   {
     id: 53,
@@ -616,7 +616,7 @@ export const people = [
     club: "Department of Mechanical Engineering",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/divyansh_vyas.png",
+    image: "",
   },
   {
     id: 54,
@@ -1243,7 +1243,7 @@ export const people = [
     phone: "+91 1234567890",
     links: {},
     image:
-      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMCyTrhokXP1Ye98BRUzrfgZxVhjAC2oELI4yN",
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMXriyKH8nOm9BbZ8AUWNXVFpe2gvisLhSClDR",
   },
   {
     id: 107,
@@ -1326,7 +1326,7 @@ export const people = [
   
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aashish_ranjan.png",
+    image: "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMBXKuVLsoUyRP1aNMGviSe28wcKDWu9hplmgk",
   },
   {
     id: 114,
@@ -1337,7 +1337,7 @@ export const people = [
    
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aashish_ranjan.png",
+    image: "",
   },
   {
     id: 115,
@@ -1348,7 +1348,7 @@ export const people = [
  
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aashish_ranjan.png",
+    image: "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMBTIDuRsoUyRP1aNMGviSe28wcKDWu9hplmgk",
   },
   {
     id: 116,
@@ -1398,6 +1398,18 @@ export const people = [
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMxsWHPuwJcHFTyQfhOIG1qrJtL8u6RAoBX7P2",
   },
   {
+    id: 129,
+    name: "Raghuveer Kulkarni",
+    pors: ["Vice President, SAA"],
+    category: "Other-Societies-and-Committies",
+    club: "Society of Alumni Affairs",
+   
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMXHgbGL8nOm9BbZ8AUWNXVFpe2gvisLhSClDR",
+  },
+  {
     id: 120,
     name: "Mahi Chouhan",
     pors: ["Overall Coordinator, SAA"],
@@ -1443,7 +1455,7 @@ export const people = [
     phone: "+91 1234567890",
     links: {},
     image:
-      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMNPHIGjqDZdaw4LGQ2p0miWY8jC3eIJSTftcz",
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMWtVvriXQMqbLK4kijAz8GBa7nZvfC3eOhlyP",
   },
   {
     id: 124,
@@ -1504,6 +1516,606 @@ export const people = [
     links: {},
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMbzS7MNQrJYjGCL0guqFMUsI3leyP8vRV9k4A",
+  },
+  {
+    id: 130,
+    name: "Divyamoorthi Panthi",
+    pors: ["Head, SWC"],
+    category: "Other-Societies-and-Committies",
+    club: "Student Wellbieng Committee",
+   
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMkxsDpqufUyqQrjGEx14o7BaAd0PIgWcilCbs",
+  },
+  {
+    id: 131,
+    name: "Debadatta Sahoo",
+    pors: ["Assistant Head, SWC"],
+    category: "Other-Societies-and-Committies",
+    club: "Student Wellbieng Committee",
+   
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMkMGIQOufUyqQrjGEx14o7BaAd0PIgWcilCbs",
+  },
+  {
+    id: 132,
+    name: "Shlok Agarwal",
+    pors: ["Assistant Head, SWC"],
+    category: "Other-Societies-and-Committies",
+    club: "Student Wellbieng Committee",
+   
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM1eIUrc9PpKjW8iv50fzkD4GMsqmtZaRcQglb",
+  },
+  {
+    id: 133,
+    name: "Kriti Bansal",
+    pors: ["Assistant Head, SWC"],
+    category: "Other-Societies-and-Committies",
+    club: "Student Wellbieng Committee",
+   
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMmukLRBCquoWg3pcrZHnOmvx17SzEfChdylLA",
+  },
+  {
+    id: 134,
+    name: "Prayag Raghunandan",
+    pors: ["Assistant Head, SWC"],
+    category: "Other-Societies-and-Committies",
+    club: "Student Wellbieng Committee",
+   
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMJeHvUgBf0qbSmT4GYKoFypatPQcxRkX195UC",
+  },
+  {
+    id: 135,
+    name: "Nikhil Thawani",
+    pors: ["Assistant Head, SWC"],
+    category: "Other-Societies-and-Committies",
+    club: "Student Wellbieng Committee",
+   
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMFoSAZIvDoYjZrL4UGgklRhXWKmb1dsSi8BJf",
+  },
+  {
+    id: 136,
+    name: "Garv Seth",
+    pors: ["Assistant Head, SWC"],
+    category: "Other-Societies-and-Committies",
+    club: "Student Wellbieng Committee",
+   
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMusQ797fLqBC0IAFQa1e96dxjH48S2g7mEWuf",
+  },
+  {
+    id: 137,
+    name: "Deepinder Deep Singh",
+    pors: ["Assistant Head, SWC"],
+    category: "Other-Societies-and-Committies",
+    club: "Student Wellbieng Committee",
+   
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM8TGquMw5n2WrtYuFCDq7fZHLbAJGzR1do0VI",
+  },
+  {
+    id: 138,
+    name: "Devesh Labana",
+    pors: ["Assistant Head, SWC"],
+    category: "Other-Societies-and-Committies",
+    club: "Student Wellbieng Committee",
+   
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMp84VoJI1Cl4aMh6Ubs5TwG8PFAJSkj0WKHYu",
+  },
+  {
+    id: 139,
+    name: "Sparsh Gupta",
+    pors: ["Assistant Head, SWC"],
+    category: "Other-Societies-and-Committies",
+    club: "Student Wellbieng Committee",
+   
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMQWckd9j7obmOc1TIiZ9JNFqdeCM6nuE0ghtP",
+  },
+  {
+    "id": 140,
+    "name": "Aakarsh Sinha",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9355391353",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMRehapR0TQ3Wuyv6SaiXCdfzVsJN4et8oAc1b"
+  },
+  {
+    "id": 141,
+    "name": "Aditya Pandey",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-8617255856",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMhniMej1nwALUzhiJOrGlbjVNadHTBtuRWY12"
+  },
+  {
+    "id": 142,
+    "name": "Aditya Prakash",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-6361810547",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMCxdgxqkXP1Ye98BRUzrfgZxVhjAC2oELI4yN"
+  },
+  {
+    "id": 143,
+    "name": "Aditya Rathod",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9726608281",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMFWiHW8vDoYjZrL4UGgklRhXWKmb1dsSi8BJf"
+  },
+  {
+    "id": 144,
+    "name": "Akshaya Draksharapu",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-6300052466",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMDAVR4mPZFqCr8K0cokm5XTPHGQbvVf7EOsWn"
+  },
+  {
+    "id": 145,
+    "name": "Aman Yadav",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7527998393",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMr0ZEaFlEyzmMUuvbLOwDQPkAsR9Yni530dK8"
+  },
+  {
+    "id": 146,
+    "name": "Ankit Maurya",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7234041307",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMxaSTkHJcHFTyQfhOIG1qrJtL8u6RAoBX7P25"
+  },
+  {
+    "id": 147,
+    "name": "Anuraag Gudipati",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7075063158",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMNPHIGjqDZdaw4LGQ2p0miWY8jC3eIJSTftcz"
+  },
+  {
+    "id": 148,
+    "name": "Aradhya Chhabdi",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7828184866",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMwUYc75W9O2uUiym5vpl38dLWBCcf0sPEDY74"
+  },
+  {
+    "id": 149,
+    "name": "Arnav Sharma",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9039415506",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMCfnNFyFkXP1Ye98BRUzrfgZxVhjAC2oELI4y"
+  },
+  {
+    "id": 150,
+    "name": "Atharva Waghmare",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-8269928840",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMivl9AMNnZJEQxF2ke0LsDYSX87ziUnP3RMrC"
+  },
+  {
+    "id": 151,
+    "name": "Cherry Aggarwal",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-8607064661",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMayNPLjceJmhow4nXI6bRATDOSCcuqytEx832"
+  },
+  {
+    "id": 152,
+    "name": "Chintan Vaghamshi",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-8320193567",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMuVojOAfLqBC0IAFQa1e96dxjH48S2g7mEWuf"
+  },
+  {
+    "id": 153,
+    "name": "Darsh Choudhary",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-93262 65108",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM0rFNvqhLQUnjtNa3mvPIyRkGdMSOouY2pli6"
+  },
+  {
+    "id": 154,
+    "name": "Dev Soni",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9821036154",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMfTpBk0Oz1RaPXjoIMiACN9eKgbVHY6ZqkSWs"
+  },
+  {
+    "id": 155,
+    "name": "Divyansh Yadav",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9210992006",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMRe6sXHPTQ3Wuyv6SaiXCdfzVsJN4et8oAc1b"
+  },
+  {
+    "id": 156,
+    "name": "Gajadi Praneesha",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9248771605",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMTyUzN0GObFdhrDECkcBNAGqatY3VuRpzfHTv"
+  },
+  {
+    "id": 157,
+    "name": "Gaurav Sharma",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-6375504059",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMxsRnEO2JcHFTyQfhOIG1qrJtL8u6RAoBX7P2"
+  },
+  {
+    "id": 158,
+    "name": "Gaurav Singh",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7352699553",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM42kgvCZVpjWA7eGt2w6vufYrRCyoFEgP3K4N"
+  },
+  {
+    "id": 159,
+    "name": "Gaurav Singhvi",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-6375342936",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMplZx7m2I1Cl4aMh6Ubs5TwG8PFAJSkj0WKHY"
+  },
+  {
+    "id": 160,
+    "name": "Harshil Agrawal",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-8511182932",
+    "links": {},
+    "image": "https://swc.iitj.ac.in/assets/images/cs_team/ug_2025/Harshil_Agrawal.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Harshita Pareek",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7877027300",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMqQz8W3fLR5dq3NsCzvcf0WrlQA4VSH6ZkPOw"
+  },
+  {
+    "id": 162,
+    "name": "Himkesh Tak",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9672324936",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMuerAnYfLqBC0IAFQa1e96dxjH48S2g7mEWuf"
+  },
+  {
+    "id": 163,
+    "name": "Ishita Tyagi",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7906297711",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM5GirPpCRvk3YhnSx0XFQRLUOKwegmJfCBHDc"
+  },
+  {
+    "id": 164,
+    "name": "Jaenil Parekh",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7020321675",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMt7B0LdA2QRkM8JxcOVlZjT4oap3Ae6fsNIUr"
+  },
+  {
+    "id": 165,
+    "name": "Jimeet Shastri",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9727555139",
+    "links": {},
+    "image": "https://swc.iitj.ac.in/assets/images/cs_team/ug_2025/Jimeet_Shastri.jpg"
+  },
+  {
+    "id": 166,
+    "name": "Juyee Shirkhedkar",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9511272594",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMOqxtWgVCBGaMLh0KoSFbQ2uNPJsT6xvnkrWH"
+  },
+  {
+    "id": 167,
+    "name": "Keshav Swami",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9352902531",
+    "links": {},
+    "image": "https://swc.iitj.ac.in/assets/images/cs_team/ug_2025/Keshav_Swami.jpg"
+  },
+  {
+    "id": 168,
+    "name": "Khushvendra Singh",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-6378991682",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMkzPB2KufUyqQrjGEx14o7BaAd0PIgWcilCbs"
+  },
+  {
+    "id": 169,
+    "name": "Krish Jain",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9660280295",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMIGSqxarlCtyuQhRTVH8EvYWUgswfek7SDmJN"
+  },
+  {
+    "id": 170,
+    "name": "Neeli Satwik",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7075554914",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM1RxNey9PpKjW8iv50fzkD4GMsqmtZaRcQglb"
+  },
+  {
+    "id": 171,
+    "name": "Nihar Pathak",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7506257932",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMIco3GtrlCtyuQhRTVH8EvYWUgswfek7SDmJN"
+  },
+  {
+    "id": 172,
+    "name": "Nikhil Kumar Sharma",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7004728118",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMsEeUSNjahIglbeHizpcYJB1N68QwroWTD3Ks"
+  },
+  {
+    "id": 173,
+    "name": "Nupur Joshi",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9604175807",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMivHSfEenZJEQxF2ke0LsDYSX87ziUnP3RMrC"
+  },
+  {
+    "id": 174,
+    "name": "Pratyaksh Tyagi",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-8595319072",
+    "links": {},
+    "image": "https://swc.iitj.ac.in/assets/images/cs_team/ug_2025/Pratyaksh_Tyagi.jpg"
+  },
+  {
+    "id": 175,
+    "name": "Raghav Maheshwari",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7727983763",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMolc8QnScGBs9ftLTeqVIyYkKvdjaM42uFwN0"
+  },
+  {
+    "id": 176,
+    "name": "Rujul Bahirat",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9552330770",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM3WOWnYp7BCZovpq4alX91RPOutA5KH2rhVD8"
+  },
+  {
+    "id": 177,
+    "name": "Saharsh Thakor",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-8320404869",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMYSMknstIJbeC0OT1wMX3Au2UVBkEtcn9KFyH"
+  },
+  {
+    "id": 178,
+    "name": "Shrihari Mancharkar",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7709542303",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMVkZ7kz36ryjvLQJ10esAiq5mEnpRSPltkGTF"
+  },
+  {
+    "id": 179,
+    "name": "Soham Wad",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-8483894287",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM1iDCvrD9PpKjW8iv50fzkD4GMsqmtZaRcQgl"
+  },
+  {
+    "id": 180,
+    "name": "Sri Raghava Chittanoor",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7386944091",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMz2lgIV44N23hsY65ljPwdOCTgJXMAWQv8ZcB"
+  },
+  {
+    "id": 181,
+    "name": "Suraj Kumar",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9549007512",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMSFnlrrxJM8FTNHtClQ4GPxKof2ri3UXZO7V0"
+  },
+  {
+    "id": 182,
+    "name": "Surmit Kumar Choudhary",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9748630772",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMOpUuw6uVCBGaMLh0KoSFbQ2uNPJsT6xvnkrW"
+  },
+  {
+    "id": 183,
+    "name": "Tanishq Varshney",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-8171679777",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM8qERfN5n2WrtYuFCDq7fZHLbAJGzR1do0VI3"
+  },
+  {
+    "id": 184,
+    "name": "Vedansh Buchasia",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-8490033382",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMFkUV93vDoYjZrL4UGgklRhXWKmb1dsSi8BJf"
+  },
+  {
+    "id": 185,
+    "name": "Vichitr Arora",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-9253074630",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMbZEiOfQrJYjGCL0guqFMUsI3leyP8vRV9k4A"
+  },
+  {
+    "id": 186,
+    "name": "Vidhi Sharma",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-6009314100",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMbI3OFjQrJYjGCL0guqFMUsI3leyP8vRV9k4A"
+  },
+  {
+    "id": 187,
+    "name": "Yashvi Jain",
+    "pors": ["Student Guide, SWC"],
+    "category": "Other-Societies-and-Committies",
+    "club": "Student Wellbieng Committee",
+    "phone": "+91-7700011595",
+    "links": {},
+    "image": "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMBTIDuRsoUyRP1aNMGviSe28wcKDWu9hplmgk"
   },
 ];
 
