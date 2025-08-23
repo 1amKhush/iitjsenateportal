@@ -338,7 +338,7 @@ const Societies = () => {
                         {/* SS Communities */}
                         <div className="bg-gradient-to-br from-gray-800 to-gray-900 rounded-3xl shadow-2xl p-8 border border-gray-700">
                             <h3 className="text-3xl font-semibold text-center text-amber-300 mb-8">
-                                Communities under SS
+                                Communities affilated with Student Senate
                             </h3>
                             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                                 {SS_communities.map((community, index) => (

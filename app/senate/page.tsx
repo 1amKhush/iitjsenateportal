@@ -42,9 +42,11 @@ const SenatePage = () => {
   const navRef = useRef<HTMLDivElement>(null);
 
   const filteredPeople = useMemo(() => {
-    if (!searchTerm) return [];
+    if (!searchTerm.trim()) {
+      return [];
+    }
     return people.filter(person =>
-      person.name.toLowerCase().includes(searchTerm.toLowerCase())
+      person.name.toLowerCase().includes(searchTerm.toLowerCase().trim())
     );
   }, [searchTerm]);
 
@@ -90,6 +92,8 @@ const SenatePage = () => {
 
   const genSecs = useMemo(() => people.filter(p => p.category === 'gen-sec'), []);
   const vps = useMemo(() => people.filter(p => p.category === 'vp'), []);
+  const otherSocietiesAndCommitties = useMemo(() => clubMembers.otherSocietiesAndCommitties, []);
+
 
   return (
     <div className="bg-black text-white min-h-screen">
@@ -109,6 +113,7 @@ const SenatePage = () => {
               <button onClick={() => scrollToSection('tech-clubs')} className="w-full text-left p-2 rounded hover:bg-gray-700/50 transition-colors">Technical Clubs</button>
               <button onClick={() => scrollToSection('cultural-clubs')} className="w-full text-left p-2 rounded hover:bg-gray-700/50 transition-colors">Cultural Clubs</button>
               <button onClick={() => scrollToSection('sports-clubs')} className="w-full text-left p-2 rounded hover:bg-gray-700/50 transition-colors">Sports Clubs</button>
+              <button onClick={() => scrollToSection('other-societies')} className="w-full text-left p-2 rounded hover:bg-gray-700/50 transition-colors">Other Societies</button>
             </nav>
           </div>
         </div>
@@ -116,8 +121,8 @@ const SenatePage = () => {
 
       {/* Hero Section */}
       <div className="relative bg-black pt-32 pb-20 overflow-hidden">
-        <div 
-            className="absolute inset-0 w-full h-full opacity-20" 
+        <div
+            className="absolute inset-0 w-full h-full opacity-20"
             style={{
                 background: 'linear-gradient(135deg, rgba(255, 255, 255, 0.05) 25%, transparent 25%), linear-gradient(225deg, rgba(255, 255, 255, 0.05) 25%, transparent 25%)',
                 backgroundSize: '40px 40px',
@@ -184,6 +189,7 @@ const SenatePage = () => {
             {renderClubSection(clubMembers.technicalClubs, "tech-clubs", "Technical Clubs")}
             {renderClubSection(clubMembers.culturalClubs, "cultural-clubs", "Cultural Clubs")}
             {renderClubSection(clubMembers.sportsClubs, "sports-clubs", "Sports Clubs")}
+            {renderClubSection(otherSocietiesAndCommitties, "other-societies", "Other Societies and Committees")}
           </>
         )}
       </div>
