@@ -45,7 +45,7 @@ export const BCCAClubs = [
     socialLinks: [],
   },
   {
-    title: "RAID",
+    title: "RAID: The AI Society",
     description: "Realm of artificial intelligence",
     imageurl: "/images/clubs/bcca/raid.png",
     holder: "",
@@ -53,7 +53,7 @@ export const BCCAClubs = [
     socialLinks: [],
   },
   {
-    title: "INSIDE",
+    title: "INSIDE: The GameDev Society",
     description: "Game development society",
     imageurl: "/images/clubs/bcca/inside.png",
     holder: "",
@@ -335,9 +335,9 @@ export const IRteam = [
   {
     title: "International Relations Team",
     description: "Society focusing on international relations and initiatives.",
-    imageurl: "/images/clubs/saa/saa.png",
+    imageurl: "/images/clubs/saa/ir.png",
     holder: "",
-    contactInfo: "saa@iitj.ac.in",
+    contactInfo: "",
     socialLinks: [],
   },
 ];

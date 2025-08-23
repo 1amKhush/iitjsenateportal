@@ -56,6 +56,14 @@ export const ACACOtherCommunities = [
         socialLinks: []
     },
     {
+        title: "IR Team",
+        description: "Development society focused on building innovative solutions and enhancing technical skills.",
+        imageurl: "/images/clubs/bcca/devlup-labs.png",
+        holder: "",
+        contactInfo: "devlup@iitj.ac.in",
+        socialLinks: []
+    },
+    {
         title: "SPGC",
         description: "Development society focused on building innovative solutions and enhancing technical skills.",
         imageurl: "/images/clubs/bcca/devlup-labs.png",

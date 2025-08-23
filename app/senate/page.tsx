@@ -42,9 +42,11 @@ const SenatePage = () => {
   const navRef = useRef<HTMLDivElement>(null);
 
   const filteredPeople = useMemo(() => {
-    if (!searchTerm) return people;
+    if (!searchTerm.trim()) {
+      return [];
+    }
     return people.filter(person =>
-      person.name.toLowerCase().includes(searchTerm.toLowerCase())
+      person.name.toLowerCase().includes(searchTerm.toLowerCase().trim())
     );
   }, [searchTerm]);
 
@@ -90,7 +92,8 @@ const SenatePage = () => {
 
   const genSecs = useMemo(() => people.filter(p => p.category === 'gen-sec'), []);
   const vps = useMemo(() => people.filter(p => p.category === 'vp'), []);
-  const otherSocietiesAndCommitties = useMemo(() => clubMembers.otherSocietiesAndCommittees, []);
+  const otherSocietiesAndCommitties = useMemo(() => clubMembers.otherSocietiesAndCommitties, []);
+
 
   return (
     <div className="bg-black text-white min-h-screen">
