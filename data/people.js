@@ -7,8 +7,8 @@ export const people = [
     email: "gensecy_acac@iitj.ac.in",
     phone: "+91 1234567890",
     links: {
-      linkedin: "https://www.linkedin.com/in/yash-golani/",
-      instagram: "https://www.instagram.com/yash_golani/",
+      linkedin: "https://www.linkedin.com/in/yash-g-144210106/",
+      instagram: "https://www.instagram.com/yash.golanii/",
     },
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM0kn6IFhLQUnjtNa3mvPIyRkGdMSOouY2pli6",
@@ -18,11 +18,11 @@ export const people = [
     name: "Tharakadatta D Hegde",
     pors: ["General Secretary, Student Senate"],
     category: "gen-sec",
-    email: "b22cs102@iitj.ac.in",
+    email: "gensecy_ss@iitj.ac.in",
     phone: "+91 1234567890",
     links: {
-      linkedin: "https://www.linkedin.com/in/tharakdatta-hegde/",
-      instagram: "https://www.instagram.com/tharakdatta_hegde/",
+      linkedin: "https://www.linkedin.com/in/tharakadattahegde/",
+      instagram: "https://www.instagram.com/tharak_hegde/",
     },
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMa8bHDEceJmhow4nXI6bRATDOSCcuqytEx832",
@@ -32,11 +32,11 @@ export const people = [
     name: "Manas Chechani",
     pors: ["General Secretary, SAC"],
     category: "gen-sec",
-    email: "b22ai053@iitj.ac.in",
+    email: "gensecy_sac@iitj.ac.in",
     phone: "+91 9521771854",
     links: {
-      linkedin: "https://www.linkedin.com/in/manas-chechani/",
-      instagram: "https://www.instagram.com/manas_chechani/",
+      linkedin: "https://www.linkedin.com/in/manas-chechani-1452ab253/",
+      instagram: "https://www.instagram.com/manaschechani/",
     },
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMxsWB0hOJcHFTyQfhOIG1qrJtL8u6RAoBX7P2",
@@ -46,11 +46,11 @@ export const people = [
     name: "Krish Teckchandani",
     pors: ["Vice President, BAI"],
     category: "vp",
-    email: "b23cs1092@iitj.ac.in",
+    email: "bai@iitj.ac.in",
     phone: "+91 9667164576",
     links: {
-      linkedin: "",
-      instagram:
+      linkedin: "https://www.linkedin.com/in/krish-teckchandani/",
+      instagram: "https://www.instagram.com/krish2005tech/",
     },
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMEXmOSiDwicRMrFzIfT9NVHxLbe3dvG1Cthlg",
@@ -60,9 +60,12 @@ export const people = [
     name: "Sourav Chahar",
     pors: ["Vice President, BDS"],
     category: "vp",
-    email: "b23ee1071@iitj.ac.in",
+    email: "bds@iitj.ac.in",
     phone: "+91 8937085795",
-    links: {},
+    links: {
+      linkedin: "https://www.linkedin.com/in/sourav-chahar-363b7a286/",
+      instagram: "https://www.instagram.com/sourav_chahar_/",
+    },
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMhjaoQT1nwALUzhiJOrGlbjVNadHTBtuRWY12",
   },
@@ -73,7 +76,10 @@ export const people = [
     category: "vp",
     email: "vp_bcd@iitj.ac.in",
     phone: "+91 1234567890",
-    links: {},
+    links: {
+      linkedin: "https://www.linkedin.com/in/anchitya-kumar-898929209/",
+      instagram: "https://www.instagram.com/_anch_2003/",
+    },
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMA0dF9iOon6QYzvUW0Tj8RmS97NExKsfdPuXq",
   },
@@ -82,9 +88,12 @@ export const people = [
     name: "Raghuveer Kulkarni",
     pors: ["Vice President, SAA"],
     category: "vp",
-    email: "b23es1020@iitj.ac.in",
+    email: "saa@iitj.ac.in",
     phone: "+91 7499027852",
-    links: {},
+    links: {
+      linkedin: "https://www.linkedin.com/in/raghuveer-kulkarni-185450281/",
+      instagram: "https://www.instagram.com/raghuveerkulkarni007/",
+    },
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMXHgbGL8nOm9BbZ8AUWNXVFpe2gvisLhSClDR",
   },
@@ -93,9 +102,12 @@ export const people = [
     name: "Vyom Shah",
     pors: ["Vice President, BIE"],
     category: "vp",
-    email: "b23cm1058@iitj.ac.in",
+    email: "bie@iitj.ac.in",
     phone: "+91 9998708013",
-    links: {},
+    links: {
+      linkedin: "https://www.linkedin.com/in/shah-vyom/",
+      instagram: "https://www.instagram.com/vyom1111/",
+    },
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM3BAHznp7BCZovpq4alX91RPOutA5KH2rhVD8",
   },
@@ -104,9 +116,12 @@ export const people = [
     name: "Sambhav Jha",
     pors: ["Vice President, BCCA"],
     category: "vp",
-    email: "b23ee1092@iitj.ac.in",
+    email: "bcca@iitj.ac.in",
     phone: "+91 9508798686",
-    links: {},
+    links: {
+      linkedin: "https://www.linkedin.com/in/sambhav-jha-61412528a/",
+      instagram: "https://www.instagram.com/sammy_ftw_141/",
+    },
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMbf7bu4QrJYjGCL0guqFMUsI3leyP8vRV9k4A",
   },
@@ -115,29 +130,40 @@ export const people = [
     name: "Vaibhav Singh",
     pors: ["Vice President, BAC"],
     category: "vp",
-    email: "b23ee1101@iitj.ac.in",
+    email: "bac@iitj.ac.in",
     phone: "+91 9599239032",
-    links: {},
-    image: "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMn2OoWrCFOaWbEYR2hGI7TcQ1VwPBgloreukL",
+    links: {
+      linkedin: "https://www.linkedin.com/in/vaibhav-singh-801b95287/",
+      instagram: "https://www.instagram.com/vaibhav_015_/",
+    },
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMn2OoWrCFOaWbEYR2hGI7TcQ1VwPBgloreukL",
   },
   {
     id: 11,
     name: "Sudhanshu Tamhankar",
     pors: ["Vice President, BSS"],
     category: "vp",
-    email: "b23es1032@iitj.ac.in",
+    email: "bss@iitj.ac.in",
     phone: "+91 6355798073",
-    links: {},
-    image: "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM0MNj47hLQUnjtNa3mvPIyRkGdMSOouY2pli6",
+    links: {
+      linkedin: "https://www.linkedin.com/in/sudhanshu-tamhankar-b9a662280/",
+      instagram: "https://www.instagram.com/sudhanshutamhankar/",
+    },
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM0MNj47hLQUnjtNa3mvPIyRkGdMSOouY2pli6",
   },
   {
     id: 12,
     name: "Anshit Agarwal",
     pors: ["Vice President, BLA"],
     category: "vp",
-    email: "b23cs1087@iitj.ac.in",
+    email: "bla@iitj.ac.in",
     phone: "+91 8006337201",
-    links: {},
+    links: {
+      linkedin: "https://www.linkedin.com/in/2005anshit/",
+      instagram: "https://www.instagram.com/anshit_agar28/",
+    },
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMWNKTiiXQMqbLK4kijAz8GBa7nZvfC3eOhlyP",
   },
@@ -148,8 +174,296 @@ export const people = [
     category: "vp",
     email: "vp_bha@iitj.ac.in",
     phone: "+91 1234567890",
+    links: {
+      linkedin: "https://www.linkedin.com/in/harsh-kumar-646453301/",
+      instagram: "",
+    },
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMfG7Qn30Oz1RaPXjoIMiACN9eKgbVHY6ZqkSW",
+  },
+  {
+    id: 103,
+    name: "Om Kumar",
+    pors: ["Secretary, TGT"],
+    category: "cultural-club",
+    club: "The Groove Theory",
+    email: "",
+    phone: "+91 1234567890",
     links: {},
-    image: "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMfG7Qn30Oz1RaPXjoIMiACN9eKgbVHY6ZqkSW",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM91be5TMqCP5H3trMoKTB6swX0pNnavRAli8L",
+  },
+  {
+    id: 104,
+    name: "Pratyaksh Tyagi",
+    pors: ["Joint Secretary, TGT"],
+    category: "cultural-club",
+    club: "The Groove Theory",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMCyTrhokXP1Ye98BRUzrfgZxVhjAC2oELI4yN",
+  },
+  {
+    id: 105,
+    name: "Jayani Parikh",
+    pors: ["Joint Secretary, TGT"],
+    category: "cultural-club",
+    club: "The Groove Theory",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMPxjdluYm642ClhTQIawSnMsW9YfGzkqOJXr3",
+  },
+  {
+    id: 106,
+    name: "Harshita",
+    pors: ["Joint Secretary, TGT"],
+    category: "cultural-club",
+    club: "The Groove Theory",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMFp8zkvDoYjZrL4UGgklRhXWKmb1dsSi8BJf6",
+  },
+  {
+    id: 107,
+    name: "Sri Satya",
+    pors: ["Secretary, Ateliers"],
+    category: "cultural-club",
+    club: "Ateliers",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMFkxmWNvDoYjZrL4UGgklRhXWKmb1dsSi8BJf",
+  },
+  {
+    id: 108,
+    name: "Piyush Kumar",
+    pors: ["Overall Coordinator, Ateliers"],
+    category: "cultural-club",
+    club: "Ateliers",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMcC6qb0EMen0gh5kxEIT3YprmzjPSGKwtvC6c",
+  },
+  {
+    id: 109,
+    name: "Devanshi Gupta",
+    pors: ["Joint Secretary, Ateliers"],
+    category: "cultural-club",
+    club: "Ateliers",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMFLpBnAvDoYjZrL4UGgklRhXWKmb1dsSi8BJf",
+  },
+  {
+    id: 110,
+    name: "Gyan Vardhan Chauhan",
+    pors: ["Joint Secretary, Ateliers"],
+    category: "cultural-club",
+    club: "Ateliers",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMcWQkPfEMen0gh5kxEIT3YprmzjPSGKwtvC6c",
+  },
+  {
+    id: 111,
+    name: "Rudra Khokhani",
+    pors: ["Secretary, Shutterbugs"],
+    category: "cultural-club",
+    club: "Shutterbugs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/aashish_ranjan.png",
+  },
+  {
+    id: 112,
+    name: "Akshit Prajapat",
+    pors: ["Joint Secretary, Shutterbugs"],
+    category: "cultural-club",
+    club: "Shutterbugs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/aashish_ranjan.png",
+  },
+  {
+    id: 113,
+    name: "Yashvi Jain",
+    pors: ["Joint Secretary, Shutterbugs"],
+    category: "cultural-club",
+    club: "Shutterbugs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/aashish_ranjan.png",
+  },
+  {
+    id: 114,
+    name: "Arpit Chaturvedi",
+    pors: ["Joint Secretary, Shutterbugs"],
+    category: "cultural-club",
+    club: "Shutterbugs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image: "/images/people/aashish_ranjan.png",
+  },
+  {
+    id: 115,
+    name: "Swayam",
+    pors: ["Secretary, Dramebaaz"],
+    category: "cultural-club",
+    club: "Dramatics Society",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMNoE6wXqDZdaw4LGQ2p0miWY8jC3eIJSTftcz",
+  },
+  {
+    id: 116,
+    name: "Shahid",
+    pors: ["Joint Secretary, Dramebaaz"],
+    category: "cultural-club",
+    club: "Dramatics Society",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMXRCxfmt8nOm9BbZ8AUWNXVFpe2gvisLhSClD",
+  },
+  {
+    id: 117,
+    name: "Kartik",
+    pors: ["Joint Secretary, Dramebaaz"],
+    category: "cultural-club",
+    club: "Dramatics Society",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMxsWHPuwJcHFTyQfhOIG1qrJtL8u6RAoBX7P2",
+  },
+  {
+    id: 118,
+    name: "Mahi Chouhan",
+    pors: ["Overall Coordinator, SAA"],
+    category: "Other-Societies-and-Committies",
+    club: "Society of Alumni Affairs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMJEFFLgBf0qbSmT4GYKoFypatPQcxRkX195UC",
+  },
+  {
+    id: 119,
+    name: "Harpreet Singh Bawa",
+    pors: ["Coordinator, SAA"],
+    category: "Other-Societies-and-Committies",
+    club: "Society of Alumni Affairs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMICm7P4rlCtyuQhRTVH8EvYWUgswfek7SDmJN",
+  },
+  {
+    id: 120,
+    name: "Khushvendra Singh",
+    pors: ["Coordinator, SAA"],
+    category: "Other-Societies-and-Committies",
+    club: "Society of Alumni Affairs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMIHNZX02rlCtyuQhRTVH8EvYWUgswfek7SDmJ",
+  },
+  {
+    id: 121,
+    name: "Anuraag Gudipati",
+    pors: ["Coordinator, SAA"],
+    category: "Other-Societies-and-Committies",
+    club: "Society of Alumni Affairs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMNPHIGjqDZdaw4LGQ2p0miWY8jC3eIJSTftcz",
+  },
+  {
+    id: 122,
+    name: "Sumedha Singh",
+    pors: ["Coordinator, SAA"],
+    category: "Other-Societies-and-Committies",
+    club: "Society of Alumni Affairs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMOKmAkKVCBGaMLh0KoSFbQ2uNPJsT6xvnkrWH",
+  },
+  {
+    id: 123,
+    name: "Sidagam Nirni Naidu",
+    pors: ["Coordinator, SAA"],
+    category: "Other-Societies-and-Committies",
+    club: "Society of Alumni Affairs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMfN9Pft0Oz1RaPXjoIMiACN9eKgbVHY6ZqkSW",
+  },
+  {
+    id: 124,
+    name: "Nayan Patidar",
+    pors: ["Coordinator, SAA"],
+    category: "Other-Societies-and-Committies",
+    club: "Society of Alumni Affairs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM09O7YxvhLQUnjtNa3mvPIyRkGdMSOouY2pli",
+  },
+  {
+    id: 125,
+    name: "Akhil Dhyani",
+    pors: ["Coordinator, SAA"],
+    category: "Other-Societies-and-Committies",
+    club: "Society of Alumni Affairs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMzKNDUg44N23hsY65ljPwdOCTgJXMAWQv8ZcB",
+  },
+  {
+    id: 126,
+    name: "Divyansh Yadav",
+    pors: ["Coordinator, SAA"],
+    category: "Other-Societies-and-Committies",
+    club: "Society of Alumni Affairs",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMbzS7MNQrJYjGCL0guqFMUsI3leyP8vRV9k4A",
   },
   {
     id: 14,
@@ -157,10 +471,11 @@ export const people = [
     pors: ["Secretary, RAW"],
     category: "cultural-club",
     club: "RAW",
-    email: "b24edp013@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aashish_ranjan.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMbzaNs9QrJYjGCL0guqFMUsI3leyP8vRV9k4A",
   },
   {
     id: 15,
@@ -168,10 +483,11 @@ export const people = [
     pors: ["Joint Secretary, RAW"],
     category: "cultural-club",
     club: "RAW",
-    email: "b24edm010@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/ashish_kurrey.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM98AUNDMqCP5H3trMoKTB6swX0pNnavRAli8L",
   },
   {
     id: 16,
@@ -179,10 +495,11 @@ export const people = [
     pors: ["Joint Secretary, RAW"],
     category: "cultural-club",
     club: "RAW",
-    email: "b24ci1037@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/nitesh_yadav.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMim4U8gnZJEQxF2ke0LsDYSX87ziUnP3RMrC9",
   },
   {
     id: 17,
@@ -190,7 +507,7 @@ export const people = [
     pors: ["Secretary, Designerds"],
     category: "cultural-club",
     club: "Designerds",
-    email: "b24ee1062@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/aditya_rathod.png",
@@ -201,7 +518,7 @@ export const people = [
     pors: ["Joint Secretary, Designerds"],
     category: "cultural-club",
     club: "Designerds",
-    email: "b24bb1004@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/akshat_rathore.png",
@@ -212,7 +529,7 @@ export const people = [
     pors: ["Joint Secretary, Designerds"],
     category: "cultural-club",
     club: "Designerds",
-    email: "b24es1024@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/harsh_raj.png",
@@ -223,10 +540,11 @@ export const people = [
     pors: ["Secretary, Sangam"],
     category: "cultural-club",
     club: "Sangam",
-    email: "b23cm1039@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/soham_khairnar.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMo05MkcScGBs9ftLTeqVIyYkKvdjaM42uFwN0",
   },
   {
     id: 21,
@@ -234,10 +552,11 @@ export const people = [
     pors: ["Joint Secretary, Sangam"],
     category: "cultural-club",
     club: "Sangam",
-    email: "b24cs1049@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/sumana_nimmagadda.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmME5KbqCwicRMrFzIfT9NVHxLbe3dvG1Cthlg8",
   },
   {
     id: 22,
@@ -245,10 +564,11 @@ export const people = [
     pors: ["Joint Secretary, Sangam"],
     category: "cultural-club",
     club: "Sangam",
-    email: "b24ci1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/mudit_kumar_singh.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMMzcX8wihWwQlHop54A38Prysv9UfXEdD7bTK",
   },
   {
     id: 23,
@@ -256,29 +576,30 @@ export const people = [
     pors: ["Secretary, Quiz Society"],
     category: "cultural-club",
     club: "Quiz Society",
-    email: "b23cs1089@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/arpan_jain.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMhbYXt61nwALUzhiJOrGlbjVNadHTBtuRWY12",
   },
-  {
-    id: 76,
-    name: "Arpan Jain",
-    pors: ["Secretary, Quiz Society"],
-    category: "cultural-club",
-    club: "Quiz Society",
-    email: "b23cs1089@iitj.ac.in",
-    phone: "+91 1234567890",
-    links: {},
-    image: "/images/people/arpan_jain.png",
-  },
+  // {
+  //   id: 76,
+  //   name: "Arpan Jain",
+  //   pors: ["Secretary, Quiz Society"],
+  //   category: "cultural-club",
+  //   club: "Quiz Society",
+  //   email: "",
+  //   phone: "+91 1234567890",
+  //   links: {},
+  //   image: "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMhbYXt61nwALUzhiJOrGlbjVNadHTBtuRWY12",
+  // },
   {
     id: 77,
     name: "Archie Singh",
     pors: ["Joint Secretary, Quiz Society"],
     category: "cultural-club",
     club: "Quiz Society",
-    email: "b23cs1089@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -290,7 +611,7 @@ export const people = [
     pors: ["Joint Secretary, Quiz Society"],
     category: "cultural-club",
     club: "Quiz Society",
-    email: "b23cs1089@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -302,7 +623,7 @@ export const people = [
     pors: ["Joint Secretary, Quiz Society"],
     category: "cultural-club",
     club: "Quiz Society",
-    email: "b23cs1089@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -314,7 +635,7 @@ export const people = [
     pors: ["Secretary, Literature Society"],
     category: "cultural-club",
     club: "Literature Society",
-    email: "b23cs1002@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -326,7 +647,7 @@ export const people = [
     pors: ["Joint Secretary, Literature Society"],
     category: "cultural-club",
     club: "Literature Society",
-    email: "b23cs1002@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -338,7 +659,7 @@ export const people = [
     pors: ["Joint Secretary, Literature Society"],
     category: "cultural-club",
     club: "Literature Society",
-    email: "b23cs1002@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -350,7 +671,7 @@ export const people = [
     pors: ["Joint Secretary, Literature Society"],
     category: "cultural-club",
     club: "Literature Society",
-    email: "b23cs1002@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -362,7 +683,7 @@ export const people = [
     pors: ["Joint Secretary, PHEME"],
     category: "cultural-club",
     club: "PHEME",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -374,7 +695,7 @@ export const people = [
     pors: ["Joint Secretary, PHEME"],
     category: "cultural-club",
     club: "PHEME",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -386,7 +707,7 @@ export const people = [
     pors: ["Joint Secretary, PHEME"],
     category: "cultural-club",
     club: "PHEME",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -398,7 +719,7 @@ export const people = [
     pors: ["Secretary, PHEME"],
     category: "cultural-club",
     club: "PHEME",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -410,7 +731,7 @@ export const people = [
     pors: ["Secretary, RAID"],
     category: "technical-club",
     club: "RAID",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -422,7 +743,7 @@ export const people = [
     pors: ["Secretary, RAID"],
     category: "technical-club",
     club: "RAID",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -434,7 +755,7 @@ export const people = [
     pors: ["Secretary, RAID"],
     category: "technical-club",
     club: "RAID",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -446,7 +767,7 @@ export const people = [
     pors: ["Secretary, Boltheads"],
     category: "technical-club",
     club: "BoltHeads",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -458,7 +779,7 @@ export const people = [
     pors: ["Coordinator, Boltheads"],
     category: "technical-club",
     club: "BoltHeads",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -470,7 +791,7 @@ export const people = [
     pors: ["Coordinator, Boltheads"],
     category: "technical-club",
     club: "BoltHeads",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -482,7 +803,7 @@ export const people = [
     pors: ["Coordinator, Boltheads"],
     category: "technical-club",
     club: "BoltHeads",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -494,7 +815,7 @@ export const people = [
     pors: ["Coordinator, Boltheads"],
     category: "technical-club",
     club: "BoltHeads",
-    email: "b23ch1032@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -506,10 +827,11 @@ export const people = [
     pors: ["Secretary, Chess Society"],
     category: "sports-club",
     club: "Chess Society",
-    email: "b24es1031@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/shiv_shome.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMzxWuda44N23hsY65ljPwdOCTgJXMAWQv8ZcB",
   },
   {
     id: 88,
@@ -517,10 +839,11 @@ export const people = [
     pors: ["Coordinator, Chess Society"],
     category: "sports-club",
     club: "Chess Society",
-    email: "b24es1031@iitj.ac.in",
+    email: "",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/shiv_shome.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMvPUTx7H2OuFd2KzIsP8yLvjrxJ1i7HX4pmBR",
   },
   {
     id: 89,
@@ -531,7 +854,8 @@ export const people = [
     email: "b24es1031@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/shiv_shome.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMt1ik93A2QRkM8JxcOVlZjT4oap3Ae6fsNIUr",
   },
   {
     id: 86,
@@ -542,7 +866,8 @@ export const people = [
     email: "b24es1031@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/shiv_shome.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMso6q77ahIglbeHizpcYJB1N68QwroWTD3KsG",
   },
   {
     id: 87,
@@ -553,7 +878,8 @@ export const people = [
     email: "b24es1031@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/shiv_shome.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMPzdmz4Ym642ClhTQIawSnMsW9YfGzkqOJXr3",
   },
   {
     id: 27,
@@ -564,7 +890,20 @@ export const people = [
     email: "b24me1045@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/manas_methi.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMXFBTPL8nOm9BbZ8AUWNXVFpe2gvisLhSClDR",
+  },
+  {
+    id: 100,
+    name: "Yashvabhav Bhardwaj",
+    pors: ["Secretary, Table Tennis Society"],
+    category: "sports-club",
+    club: "Table Tennis Society",
+    email: "b24me1045@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMnMhA30FOaWbEYR2hGI7TcQ1VwPBgloreukLS",
   },
   {
     id: 28,
@@ -575,7 +914,8 @@ export const people = [
     email: "b24cm1004@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/aditya_ranjan.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMbzaNs9QrJYjGCL0guqFMUsI3leyP8vRV9k4A",
   },
   {
     id: 29,
@@ -586,7 +926,68 @@ export const people = [
     email: "b24cm1044@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/manthan_nayak.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMpqEXSJI1Cl4aMh6Ubs5TwG8PFAJSkj0WKHYu",
+  },
+  {
+    id: 93,
+    name: "Mayank Kumar",
+    pors: ["Coordinator, Hockey Society"],
+    category: "sports-club",
+    club: "Hockey Society",
+    email: "b24cm1044@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM3rLHO22p7BCZovpq4alX91RPOutA5KH2rhVD",
+  },
+  {
+    id: 94,
+    name: "Jakkula Harish",
+    pors: ["Coordinator, Kabaddi Society"],
+    category: "sports-club",
+    club: "Kabaddi Society",
+    email: "b24cm1044@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMROnJu0TQ3Wuyv6SaiXCdfzVsJN4et8oAc1bE",
+  },
+  {
+    id: 95,
+    name: "Vaibhav Tomar",
+    pors: ["Secretary, Kabaddi Society"],
+    category: "sports-club",
+    club: "Kabaddi Society",
+    email: "b24cm1044@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMXPzkgd8nOm9BbZ8AUWNXVFpe2gvisLhSClDR",
+  },
+  {
+    id: 96,
+    name: "Aditya Jain",
+    pors: ["Secretary, Lawn Tennis Society"],
+    category: "sports-club",
+    club: "Lawn Tennis Society",
+    email: "b24cm1044@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM9Fm7fiMqCP5H3trMoKTB6swX0pNnavRAli8L",
+  },
+  {
+    id: 97,
+    name: "Aradhya Chhabdi",
+    pors: ["Secretary, Lawn Tennis Society"],
+    category: "sports-club",
+    club: "Lawn Tennis Society",
+    email: "b24cm1044@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM9kL2nvMqCP5H3trMoKTB6swX0pNnavRAli8L",
   },
   {
     id: 30,
@@ -597,7 +998,8 @@ export const people = [
     email: "b24ci1033@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/mugdha_ghodke.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMJvnDhkBf0qbSmT4GYKoFypatPQcxRkX195UC",
   },
   {
     id: 31,
@@ -608,7 +1010,8 @@ export const people = [
     email: "b24ci1045@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/pranjal_shukla.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMMYExCZihWwQlHop54A38Prysv9UfXEdD7bTK",
   },
   {
     id: 32,
@@ -619,7 +1022,8 @@ export const people = [
     email: "b24edp007@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/herschelle_sharma.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMPzdmz4Ym642ClhTQIawSnMsW9YfGzkqOJXr3",
   },
   {
     id: 33,
@@ -630,7 +1034,32 @@ export const people = [
     email: "b23cs1027@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/krishna_saglani.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMmxwrtrCquoWg3pcrZHnOmvx17SzEfChdylLA",
+  },
+  {
+    id: 98,
+    name: "Harsh Vardhan",
+    pors: ["Coordinator, Squash Society"],
+    category: "sports-club",
+    club: "Squash Society",
+    email: "b23cs1027@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM4fPBqgZVpjWA7eGt2w6vufYrRCyoFEgP3K4N",
+  },
+  {
+    id: 99,
+    name: "Nisha Paliwal",
+    pors: ["Coordinator, Squash Society"],
+    category: "sports-club",
+    club: "Squash Society",
+    email: "b23cs1027@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMBgSSj2soUyRP1aNMGviSe28wcKDWu9hplmgk",
   },
   {
     id: 34,
@@ -641,7 +1070,32 @@ export const people = [
     email: "b23ch1038@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/raj_khedkar.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMPVr9eLYm642ClhTQIawSnMsW9YfGzkqOJXr3",
+  },
+  {
+    id: 101,
+    name: "Swayampakula Manogna",
+    pors: ["Coordinator, Volleyball Society"],
+    category: "sports-club",
+    club: "Volleyball Society",
+    email: "b23ch1038@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMahiK7tceJmhow4nXI6bRATDOSCcuqytEx832",
+  },
+  {
+    id: 102,
+    name: "Sanjeet Athawale",
+    pors: ["Coordinator, Volleyball Society"],
+    category: "sports-club",
+    club: "Volleyball Society",
+    email: "b23ch1038@iitj.ac.in",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMc44tMeEMen0gh5kxEIT3YprmzjPSGKwtvC6c",
   },
   {
     id: 35,
@@ -652,7 +1106,8 @@ export const people = [
     email: "b23me1039@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/nikhil_yadav.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMCphwtakXP1Ye98BRUzrfgZxVhjAC2oELI4yN",
   },
   {
     id: 90,
@@ -663,7 +1118,8 @@ export const people = [
     email: "b23me1039@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/nikhil_yadav.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMNASmsmqDZdaw4LGQ2p0miWY8jC3eIJSTftcz",
   },
   {
     id: 36,
@@ -674,7 +1130,8 @@ export const people = [
     email: "pratyush@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/pratyush_chauhan.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMst89ruahIglbeHizpcYJB1N68QwroWTD3KsG",
   },
   {
     id: 37,
@@ -886,7 +1343,8 @@ export const people = [
     email: "b24cs1057@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/pranshu_desai.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMplbiV8sI1Cl4aMh6Ubs5TwG8PFAJSkj0WKHY",
   },
   {
     id: 91,
@@ -897,7 +1355,8 @@ export const people = [
     email: "b24cs1057@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/pranshu_desai.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMcAnTplEMen0gh5kxEIT3YprmzjPSGKwtvC6c",
   },
   {
     id: 92,
@@ -908,7 +1367,8 @@ export const people = [
     email: "b24cs1057@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
-    image: "/images/people/pranshu_desai.png",
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMDRdH1gPZFqCr8K0cokm5XTPHGQbvVf7EOsWn",
   },
   {
     id: 45,
@@ -1137,6 +1597,19 @@ export const clubMembers = {
     }, []),
   culturalClubs: people
     .filter((p) => p.category === "cultural-club")
+    .reduce((acc, curr) => {
+      const clubName =
+        curr.club ||
+        curr.pors.find((p) => p.includes("Coordinator"))?.split(", ")[1] ||
+        "Unknown";
+      if (!acc.find((c) => c.clubName === clubName)) {
+        acc.push({ clubName, members: [] });
+      }
+      acc.find((c) => c.clubName === clubName)?.members.push(curr);
+      return acc;
+    }, []),
+  otherSocietiesAndCommitties: people
+    .filter((p) => p.category === "Other-Societies-and-Committies")
     .reduce((acc, curr) => {
       const clubName =
         curr.club ||
