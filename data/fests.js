@@ -11,7 +11,7 @@ export const fests = [
             { label: "Website", href: "https://www.facebook.com/varchas.iitj" },
             { label: "Instagram", href: "https://www.facebook.com/varchas.iitj" },
         ],
-        porHolders: ["khushvendra", "amrit", "anmol"]
+        porHolders: []
     },
     {
         title: "Prometeo",

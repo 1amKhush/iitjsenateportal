@@ -187,7 +187,6 @@ export const people = [
     pors: ["Secretary, RAW"],
     category: "cultural-club",
     club: "RAW",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -199,7 +198,6 @@ export const people = [
     pors: ["Joint Secretary, RAW"],
     category: "cultural-club",
     club: "RAW",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -211,7 +209,6 @@ export const people = [
     pors: ["Joint Secretary, RAW"],
     category: "cultural-club",
     club: "RAW",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -223,7 +220,6 @@ export const people = [
     pors: ["Secretary, Designerds"],
     category: "cultural-club",
     club: "Designerds",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/aditya_rathod.png",
@@ -234,7 +230,6 @@ export const people = [
     pors: ["Joint Secretary, Designerds"],
     category: "cultural-club",
     club: "Designerds",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/akshat_rathore.png",
@@ -245,7 +240,6 @@ export const people = [
     pors: ["Joint Secretary, Designerds"],
     category: "cultural-club",
     club: "Designerds",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/harsh_raj.png",
@@ -256,7 +250,6 @@ export const people = [
     pors: ["Secretary, Sangam"],
     category: "cultural-club",
     club: "Sangam",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -268,7 +261,6 @@ export const people = [
     pors: ["Joint Secretary, Sangam"],
     category: "cultural-club",
     club: "Sangam",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -280,7 +272,6 @@ export const people = [
     pors: ["Joint Secretary, Sangam"],
     category: "cultural-club",
     club: "Sangam",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -292,7 +283,6 @@ export const people = [
     pors: ["Secretary, Quiz Society"],
     category: "cultural-club",
     club: "Quiz Society",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -304,7 +294,6 @@ export const people = [
     pors: ["Secretary, Literature Society"],
     category: "cultural-club",
     club: "Literature Society",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -316,7 +305,6 @@ export const people = [
     pors: ["Joint Secretary, PHEME"],
     category: "cultural-club",
     club: "PHEME",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -328,7 +316,6 @@ export const people = [
     pors: ["Secretary, Chess Society"],
     category: "sports-club",
     club: "Chess Society",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -340,7 +327,6 @@ export const people = [
     pors: ["Secretary, Table Tennis Society"],
     category: "sports-club",
     club: "Table Tennis Society",
-    email: "b24me1045@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -352,7 +338,6 @@ export const people = [
     pors: ["Coordinator, Football Society"],
     category: "sports-club",
     club: "Football Society",
-    email: "b24cm1004@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -364,7 +349,6 @@ export const people = [
     pors: ["Coordinator, Hockey Society"],
     category: "sports-club",
     club: "Hockey Society",
-    email: "b24cm1044@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -376,7 +360,7 @@ export const people = [
     pors: ["Secretary, Badminton Society"],
     category: "sports-club",
     club: "Badminton Society",
-    email: "b24ci1033@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -388,7 +372,7 @@ export const people = [
     pors: ["Secretary, Basketball Society"],
     category: "sports-club",
     club: "Basketball Society",
-    email: "b24ci1045@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -400,7 +384,7 @@ export const people = [
     pors: ["Secretary, Athletics Society"],
     category: "sports-club",
     club: "Athletics Society",
-    email: "b24edp007@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -412,7 +396,7 @@ export const people = [
     pors: ["Secretary, Squash Society"],
     category: "sports-club",
     club: "Squash Society",
-    email: "b23cs1027@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -424,7 +408,7 @@ export const people = [
     pors: ["Secretary, Volleyball Society"],
     category: "sports-club",
     club: "Volleyball Society",
-    email: "b23ch1038@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -436,7 +420,7 @@ export const people = [
     pors: ["Secretary, Cricket Society"],
     category: "sports-club",
     club: "Cricket Society",
-    email: "b23me1039@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -448,7 +432,6 @@ export const people = [
     pors: ["Secretary, Football Society"],
     category: "sports-club",
     club: "Football Society",
-    email: "pratyush@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -460,7 +443,7 @@ export const people = [
     pors: ["Overall Coordinator, Robotics Society"],
     category: "technical-club",
     club: "Robotics Society",
-    email: "b23ee1099@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -472,7 +455,7 @@ export const people = [
     pors: ["Overall Coordinator, Robotics Society"],
     category: "technical-club",
     club: "Robotics Society",
-    email: "b23ee1076@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -484,7 +467,7 @@ export const people = [
     pors: ["Coordinator, Devlup Labs"],
     category: "technical-club",
     club: "Devlup Labs",
-    email: "b23cs1032@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/lakshya_jain.png",
@@ -495,7 +478,6 @@ export const people = [
     pors: ["Coordinator, Devlup Labs"],
     category: "technical-club",
     club: "Devlup Labs",
-    email: "b23cs1088@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/aradhya_mahajan.png",
@@ -506,7 +488,7 @@ export const people = [
     pors: ["Coordinator, Devlup Labs"],
     category: "technical-club",
     club: "Devlup Labs",
-    email: "b23cs1005@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/arun_kumar.png",
@@ -517,7 +499,6 @@ export const people = [
     pors: ["Overall Coordinator, Product Club"],
     category: "technical-club",
     club: "Product Club",
-    email: "b23cy1019@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -529,7 +510,6 @@ export const people = [
     pors: ["Overall Coordinator, Product Club"],
     category: "technical-club",
     club: "Product Club",
-    email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -541,7 +521,6 @@ export const people = [
     pors: ["Secretary, Respawn"],
     category: "technical-club",
     club: "Respawn",
-    email: "b24cs1057@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -553,7 +532,6 @@ export const people = [
     pors: ["Overall Coordinator, Quant Club"],
     category: "technical-club",
     club: "Quant Club",
-    email: "b23ph1001@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -565,7 +543,6 @@ export const people = [
     pors: ["Overall Coordinator, Quant Club"],
     category: "technical-club",
     club: "Quant Club",
-    email: "b23ee1087@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -577,7 +554,6 @@ export const people = [
     pors: ["Society Secretary, School of AI and Data Science"],
     category: "academic-society",
     club: "School of AI and Data Science",
-    email: "r23ab0004@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/md_shaheen_perwez.png",
@@ -588,7 +564,6 @@ export const people = [
     pors: ["Secretary, Engineering Science Society"],
     category: "academic-society",
     club: "Engineering Science Society",
-    email: "b23es1003@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/adithya_subhash.png",
@@ -599,7 +574,6 @@ export const people = [
     pors: ["Secretary, Department of Electrical Engineering"],
     category: "academic-society",
     club: "Department of Electrical Engineering",
-    email: "b24ee1091@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/arhaan_natekar.png",
@@ -610,7 +584,6 @@ export const people = [
     pors: ["Society Secretary, Department of Physics"],
     category: "academic-society",
     club: "Department of Physics",
-    email: "m24ph1012@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/prashant_singh_thakur.png",
@@ -621,7 +594,6 @@ export const people = [
     pors: ["Society Secretary, Interdisciplinary Research Program"],
     category: "academic-society",
     club: "Interdisciplinary Research Program",
-    email: "m24id1009@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/shivam_kumar.png",
@@ -632,7 +604,6 @@ export const people = [
     pors: ["Society Secretary, School of Bioscience and Bioengineering"],
     category: "academic-society",
     club: "School of Bioscience and Bioengineering",
-    email: "b23bb1032@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/prakhar_chauhan.png",
@@ -643,7 +614,6 @@ export const people = [
     pors: ["Secretary, Department of Mechanical Engineering"],
     category: "academic-society",
     club: "Department of Mechanical Engineering",
-    email: "b23me1019@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/divyansh_vyas.png",
@@ -654,7 +624,6 @@ export const people = [
     pors: ["Coordinator, Robotics Society"],
     category: "technical-club",
     club: "Robotics Society",
-    email: "b23ee1076@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -666,7 +635,6 @@ export const people = [
     pors: ["Coordinator, Robotics Society"],
     category: "technical-club",
     club: "Robotics Society",
-    email: "b23ee1076@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -678,7 +646,6 @@ export const people = [
     pors: ["Coordinator, Robotics Society"],
     category: "technical-club",
     club: "Robotics Society",
-    email: "b23ee1076@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -690,7 +657,6 @@ export const people = [
     pors: ["Coordinator, Robotics Society"],
     category: "technical-club",
     club: "Robotics Society",
-    email: "b23ee1076@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -702,7 +668,6 @@ export const people = [
     pors: ["Events Head, Product Club"],
     category: "technical-club",
     club: "Product Club",
-    email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -714,7 +679,6 @@ export const people = [
     pors: ["Events Head, Product Club"],
     category: "technical-club",
     club: "Product Club",
-    email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -726,7 +690,6 @@ export const people = [
     pors: ["Design Head, Product Club"],
     category: "technical-club",
     club: "Product Club",
-    email: "b23ee1053@iitj.ac.in",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -738,7 +701,7 @@ export const people = [
     pors: ["Media & Outreach Head, Product Club"],
     category: "technical-club",
     club: "Product Club",
-    email: "b23ee1053@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -750,7 +713,7 @@ export const people = [
     pors: ["Media & Outreach Head, Product Club"],
     category: "technical-club",
     club: "Product Club",
-    email: "b23ee1053@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -762,7 +725,7 @@ export const people = [
     pors: ["Media & Outreach Head, Product Club"],
     category: "technical-club",
     club: "Product Club",
-    email: "b23ee1053@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -774,7 +737,7 @@ export const people = [
     pors: ["Mentor, Quant Club"],
     category: "technical-club",
     club: "Quant Club",
-    email: "b23ee1087@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -786,7 +749,7 @@ export const people = [
     pors: ["Mentor, PSoc"],
     category: "technical-club",
     club: "Programming Society",
-    email: "b23ee1087@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -798,7 +761,7 @@ export const people = [
     pors: ["Mentor, Psoc"],
     category: "technical-club",
     club: "Programming Society",
-    email: "b23ee1087@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -810,7 +773,7 @@ export const people = [
     pors: ["Coordinator, Nexus"],
     category: "technical-club",
     club: "Nexus",
-    email: "b23ee1087@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -822,7 +785,7 @@ export const people = [
     pors: ["Coordinator, Nexus"],
     category: "technical-club",
     club: "Nexus",
-    email: "b23ee1087@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -834,7 +797,7 @@ export const people = [
     pors: ["Coordinator, Nexus"],
     category: "technical-club",
     club: "Nexus",
-    email: "b23ee1087@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -846,7 +809,7 @@ export const people = [
     pors: ["Coordinator, INSIDE"],
     category: "technical-club",
     club: "INSIDE",
-    email: "b23ee1087@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -858,7 +821,7 @@ export const people = [
     pors: ["Coordinator, INSIDE"],
     category: "technical-club",
     club: "INSIDE",
-    email: "b23ee1087@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -870,7 +833,7 @@ export const people = [
     pors: ["Coordinator, INSIDE"],
     category: "technical-club",
     club: "INSIDE",
-    email: "b23ee1087@iitj.ac.in",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -882,7 +845,6 @@ export const people = [
     pors: ["Joint Secretary, Literature Society"],
     category: "cultural-club",
     club: "Literature Society",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -894,7 +856,6 @@ export const people = [
     pors: ["Joint Secretary, Literature Society"],
     category: "cultural-club",
     club: "Literature Society",
-    email: "",
     phone: "+91 1234567890",
     links: {},
     image:
@@ -906,7 +867,7 @@ export const people = [
     pors: ["Joint Secretary, Literature Society"],
     category: "cultural-club",
     club: "Literature Society",
-    email: "",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -918,7 +879,7 @@ export const people = [
     pors: ["Joint Secretary, Quiz Society"],
     category: "cultural-club",
     club: "Quiz Society",
-    email: "",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -930,7 +891,7 @@ export const people = [
     pors: ["Joint Secretary, Quiz Society"],
     category: "cultural-club",
     club: "Quiz Society",
-    email: "",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -942,7 +903,7 @@ export const people = [
     pors: ["Joint Secretary, Quiz Society"],
     category: "cultural-club",
     club: "Quiz Society",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -954,7 +915,7 @@ export const people = [
     pors: ["Joint Secretary, PHEME"],
     category: "cultural-club",
     club: "PHEME",
-    email: "",
+  
     phone: "+91 1234567890",
     links: {},
     image:
@@ -966,7 +927,7 @@ export const people = [
     pors: ["Joint Secretary, PHEME"],
     category: "cultural-club",
     club: "PHEME",
-    email: "",
+ 
     phone: "+91 1234567890",
     links: {},
     image:
@@ -978,7 +939,7 @@ export const people = [
     pors: ["Secretary, PHEME"],
     category: "cultural-club",
     club: "PHEME",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -990,7 +951,7 @@ export const people = [
     pors: ["Secretary, RAID"],
     category: "technical-club",
     club: "RAID",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1002,7 +963,7 @@ export const people = [
     pors: ["Secretary, RAID"],
     category: "technical-club",
     club: "RAID",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1014,7 +975,7 @@ export const people = [
     pors: ["Secretary, RAID"],
     category: "technical-club",
     club: "RAID",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1026,7 +987,7 @@ export const people = [
     pors: ["Secretary, Boltheads"],
     category: "technical-club",
     club: "BoltHeads",
-    email: "",
+ 
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1038,7 +999,7 @@ export const people = [
     pors: ["Coordinator, Boltheads"],
     category: "technical-club",
     club: "BoltHeads",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1050,7 +1011,7 @@ export const people = [
     pors: ["Coordinator, Boltheads"],
     category: "technical-club",
     club: "BoltHeads",
-    email: "",
+ 
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1062,7 +1023,7 @@ export const people = [
     pors: ["Coordinator, Boltheads"],
     category: "technical-club",
     club: "BoltHeads",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1074,7 +1035,7 @@ export const people = [
     pors: ["Coordinator, Boltheads"],
     category: "technical-club",
     club: "BoltHeads",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1086,7 +1047,7 @@ export const people = [
     pors: ["Coordinator, Chess Society"],
     category: "sports-club",
     club: "Chess Society",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1098,7 +1059,7 @@ export const people = [
     pors: ["Coordinator, Chess Society"],
     category: "sports-club",
     club: "Chess Society",
-    email: "b24es1031@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1110,7 +1071,7 @@ export const people = [
     pors: ["Coordinator, Cricket Society"],
     category: "sports-club",
     club: "Cricket Society",
-    email: "b23me1039@iitj.ac.in",
+  
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1122,7 +1083,7 @@ export const people = [
     pors: ["Coordinator, Respawn"],
     category: "technical-club",
     club: "Respawn",
-    email: "b24cs1057@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1134,7 +1095,7 @@ export const people = [
     pors: ["Coordinator, Respawn"],
     category: "technical-club",
     club: "Respawn",
-    email: "b24cs1057@iitj.ac.in",
+  
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1146,7 +1107,7 @@ export const people = [
     pors: ["Coordinator, Hockey Society"],
     category: "sports-club",
     club: "Hockey Society",
-    email: "b24cm1044@iitj.ac.in",
+ 
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1158,7 +1119,7 @@ export const people = [
     pors: ["Coordinator, Kabaddi Society"],
     category: "sports-club",
     club: "Kabaddi Society",
-    email: "b24cm1044@iitj.ac.in",
+ 
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1170,7 +1131,7 @@ export const people = [
     pors: ["Secretary, Kabaddi Society"],
     category: "sports-club",
     club: "Kabaddi Society",
-    email: "b24cm1044@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1182,7 +1143,7 @@ export const people = [
     pors: ["Secretary, Lawn Tennis Society"],
     category: "sports-club",
     club: "Lawn Tennis Society",
-    email: "b24cm1044@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1194,7 +1155,7 @@ export const people = [
     pors: ["Secretary, Lawn Tennis Society"],
     category: "sports-club",
     club: "Lawn Tennis Society",
-    email: "b24cm1044@iitj.ac.in",
+   
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1206,7 +1167,7 @@ export const people = [
     pors: ["Coordinator, Squash Society"],
     category: "sports-club",
     club: "Squash Society",
-    email: "b23cs1027@iitj.ac.in",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1218,7 +1179,7 @@ export const people = [
     pors: ["Coordinator, Squash Society"],
     category: "sports-club",
     club: "Squash Society",
-    email: "b23cs1027@iitj.ac.in",
+ 
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1230,7 +1191,7 @@ export const people = [
     pors: ["Secretary, Table Tennis Society"],
     category: "sports-club",
     club: "Table Tennis Society",
-    email: "b24me1045@iitj.ac.in",
+  
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1242,7 +1203,7 @@ export const people = [
     pors: ["Coordinator, Volleyball Society"],
     category: "sports-club",
     club: "Volleyball Society",
-    email: "b23ch1038@iitj.ac.in",
+  
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1254,7 +1215,7 @@ export const people = [
     pors: ["Coordinator, Volleyball Society"],
     category: "sports-club",
     club: "Volleyball Society",
-    email: "b23ch1038@iitj.ac.in",
+ 
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1266,7 +1227,7 @@ export const people = [
     pors: ["Secretary, TGT"],
     category: "cultural-club",
     club: "The Groove Theory",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1278,7 +1239,7 @@ export const people = [
     pors: ["Joint Secretary, TGT"],
     category: "cultural-club",
     club: "The Groove Theory",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1290,7 +1251,7 @@ export const people = [
     pors: ["Joint Secretary, TGT"],
     category: "cultural-club",
     club: "The Groove Theory",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1302,7 +1263,7 @@ export const people = [
     pors: ["Joint Secretary, TGT"],
     category: "cultural-club",
     club: "The Groove Theory",
-    email: "",
+ 
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1314,7 +1275,7 @@ export const people = [
     pors: ["Secretary, Ateliers"],
     category: "cultural-club",
     club: "Ateliers",
-    email: "",
+ 
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1326,7 +1287,7 @@ export const people = [
     pors: ["Overall Coordinator, Ateliers"],
     category: "cultural-club",
     club: "Ateliers",
-    email: "",
+   
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1338,7 +1299,7 @@ export const people = [
     pors: ["Joint Secretary, Ateliers"],
     category: "cultural-club",
     club: "Ateliers",
-    email: "",
+  
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1350,7 +1311,7 @@ export const people = [
     pors: ["Joint Secretary, Ateliers"],
     category: "cultural-club",
     club: "Ateliers",
-    email: "",
+   
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1362,7 +1323,7 @@ export const people = [
     pors: ["Secretary, Shutterbugs"],
     category: "cultural-club",
     club: "Shutterbugs",
-    email: "",
+  
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/aashish_ranjan.png",
@@ -1373,7 +1334,7 @@ export const people = [
     pors: ["Joint Secretary, Shutterbugs"],
     category: "cultural-club",
     club: "Shutterbugs",
-    email: "",
+   
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/aashish_ranjan.png",
@@ -1384,7 +1345,7 @@ export const people = [
     pors: ["Joint Secretary, Shutterbugs"],
     category: "cultural-club",
     club: "Shutterbugs",
-    email: "",
+ 
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/aashish_ranjan.png",
@@ -1395,7 +1356,7 @@ export const people = [
     pors: ["Joint Secretary, Shutterbugs"],
     category: "cultural-club",
     club: "Shutterbugs",
-    email: "",
+   
     phone: "+91 1234567890",
     links: {},
     image: "/images/people/aashish_ranjan.png",
@@ -1406,7 +1367,7 @@ export const people = [
     pors: ["Secretary, Dramebaaz"],
     category: "cultural-club",
     club: "Dramatics Society",
-    email: "",
+   
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1418,7 +1379,7 @@ export const people = [
     pors: ["Joint Secretary, Dramebaaz"],
     category: "cultural-club",
     club: "Dramatics Society",
-    email: "",
+  
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1430,7 +1391,7 @@ export const people = [
     pors: ["Joint Secretary, Dramebaaz"],
     category: "cultural-club",
     club: "Dramatics Society",
-    email: "",
+   
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1442,7 +1403,7 @@ export const people = [
     pors: ["Overall Coordinator, SAA"],
     category: "Other-Societies-and-Committies",
     club: "Society of Alumni Affairs",
-    email: "",
+   
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1454,7 +1415,7 @@ export const people = [
     pors: ["Coordinator, SAA"],
     category: "Other-Societies-and-Committies",
     club: "Society of Alumni Affairs",
-    email: "",
+   
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1466,7 +1427,7 @@ export const people = [
     pors: ["Coordinator, SAA"],
     category: "Other-Societies-and-Committies",
     club: "Society of Alumni Affairs",
-    email: "",
+
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1478,7 +1439,7 @@ export const people = [
     pors: ["Coordinator, SAA"],
     category: "Other-Societies-and-Committies",
     club: "Society of Alumni Affairs",
-    email: "",
+   
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1490,7 +1451,7 @@ export const people = [
     pors: ["Coordinator, SAA"],
     category: "Other-Societies-and-Committies",
     club: "Society of Alumni Affairs",
-    email: "",
+  
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1502,7 +1463,7 @@ export const people = [
     pors: ["Coordinator, SAA"],
     category: "Other-Societies-and-Committies",
     club: "Society of Alumni Affairs",
-    email: "",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1514,7 +1475,7 @@ export const people = [
     pors: ["Coordinator, SAA"],
     category: "Other-Societies-and-Committies",
     club: "Society of Alumni Affairs",
-    email: "",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1526,7 +1487,7 @@ export const people = [
     pors: ["Coordinator, SAA"],
     category: "Other-Societies-and-Committies",
     club: "Society of Alumni Affairs",
-    email: "",
+    
     phone: "+91 1234567890",
     links: {},
     image:
@@ -1538,7 +1499,7 @@ export const people = [
     pors: ["Coordinator, SAA"],
     category: "Other-Societies-and-Committies",
     club: "Society of Alumni Affairs",
-    email: "",
+   
     phone: "+91 1234567890",
     links: {},
     image:

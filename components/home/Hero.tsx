@@ -60,7 +60,7 @@ export default function Hero() {
             />
           </h1>
           <p className="text-lg sm:text-xl md:text-2xl text-gray-200 mx-auto max-w-3xl mt-4 mb-8 px-4">
-            Your official portal for all student activities, councils, and events at IIT Jodhpur. We are committed to fostering a vibrant and inclusive campus community.
+            Your official portal for all student activities, councils, and events at IIT Jodhpur.
           </p>
           <div className="flex items-center justify-center gap-4">
             <Link href="/events">

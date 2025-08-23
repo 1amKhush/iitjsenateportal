@@ -89,7 +89,7 @@ const CubeFace: React.FC<CubeFaceProps> = ({
       {clubs.length > 0 && (
       <div className="bg-black/50 border border-cyan-200/10 rounded-lg p-3 text-cyan-100 text-sm min-h-[60px] flex flex-col shadow-sm mt-3">
         <span className="font-medium mb-1">
-          Clubs under{" "}
+          Clubs, Societies and POR's under{" "}
           {boardTitle.split("(")[1]?.replace(")", "") || boardTitle}:
         </span>
         <div className="flex flex-wrap gap-2 mt-1">
