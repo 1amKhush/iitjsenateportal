@@ -359,9 +359,21 @@ export const people = [
   },
   {
     id: 118,
+    name: "Raghuveer Kulkarni",
+    pors: ["Vice President, SAA"],
+    category: "Other-Societies-and-Committees",
+    club: "Society of Alumni Affairs",
+    email: "",
+    phone: "",
+    links: {},
+    image:
+      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMXHgbGL8nOm9BbZ8AUWNXVFpe2gvisLhSClDR",
+  },
+  {
+    id: 119,
     name: "Mahi Chouhan",
     pors: ["Overall Coordinator, SAA"],
-    category: "Other-Societies-and-Committies",
+    category: "Other-Societies-and-Committees",
     club: "Society of Alumni Affairs",
     email: "",
     phone: "+91 1234567890",
@@ -370,10 +382,10 @@ export const people = [
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMJEFFLgBf0qbSmT4GYKoFypatPQcxRkX195UC",
   },
   {
-    id: 119,
+    id: 120,
     name: "Harpreet Singh Bawa",
     pors: ["Coordinator, SAA"],
-    category: "Other-Societies-and-Committies",
+    category: "Other-Societies-and-Committees",
     club: "Society of Alumni Affairs",
     email: "",
     phone: "+91 1234567890",
@@ -382,10 +394,10 @@ export const people = [
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMICm7P4rlCtyuQhRTVH8EvYWUgswfek7SDmJN",
   },
   {
-    id: 120,
+    id: 121,
     name: "Khushvendra Singh",
     pors: ["Coordinator, SAA"],
-    category: "Other-Societies-and-Committies",
+    category: "Other-Societies-and-Committees",
     club: "Society of Alumni Affairs",
     email: "",
     phone: "+91 1234567890",
@@ -394,10 +406,10 @@ export const people = [
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMIHNZX02rlCtyuQhRTVH8EvYWUgswfek7SDmJ",
   },
   {
-    id: 121,
+    id: 122,
     name: "Anuraag Gudipati",
     pors: ["Coordinator, SAA"],
-    category: "Other-Societies-and-Committies",
+    category: "Other-Societies-and-Committees",
     club: "Society of Alumni Affairs",
     email: "",
     phone: "+91 1234567890",
@@ -406,10 +418,10 @@ export const people = [
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMNPHIGjqDZdaw4LGQ2p0miWY8jC3eIJSTftcz",
   },
   {
-    id: 122,
+    id: 123,
     name: "Sumedha Singh",
     pors: ["Coordinator, SAA"],
-    category: "Other-Societies-and-Committies",
+    category: "Other-Societies-and-Committees",
     club: "Society of Alumni Affairs",
     email: "",
     phone: "+91 1234567890",
@@ -418,10 +430,10 @@ export const people = [
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMOKmAkKVCBGaMLh0KoSFbQ2uNPJsT6xvnkrWH",
   },
   {
-    id: 123,
+    id: 124,
     name: "Sidagam Nirni Naidu",
     pors: ["Coordinator, SAA"],
-    category: "Other-Societies-and-Committies",
+    category: "Other-Societies-and-Committees",
     club: "Society of Alumni Affairs",
     email: "",
     phone: "+91 1234567890",
@@ -430,10 +442,10 @@ export const people = [
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMfN9Pft0Oz1RaPXjoIMiACN9eKgbVHY6ZqkSW",
   },
   {
-    id: 124,
+    id: 125,
     name: "Nayan Patidar",
     pors: ["Coordinator, SAA"],
-    category: "Other-Societies-and-Committies",
+    category: "Other-Societies-and-Committees",
     club: "Society of Alumni Affairs",
     email: "",
     phone: "+91 1234567890",
@@ -442,10 +454,10 @@ export const people = [
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmM09O7YxvhLQUnjtNa3mvPIyRkGdMSOouY2pli",
   },
   {
-    id: 125,
+    id: 126,
     name: "Akhil Dhyani",
     pors: ["Coordinator, SAA"],
-    category: "Other-Societies-and-Committies",
+    category: "Other-Societies-and-Committees",
     club: "Society of Alumni Affairs",
     email: "",
     phone: "+91 1234567890",
@@ -454,16 +466,28 @@ export const people = [
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMzKNDUg44N23hsY65ljPwdOCTgJXMAWQv8ZcB",
   },
   {
-    id: 126,
+    id: 127,
     name: "Divyansh Yadav",
     pors: ["Coordinator, SAA"],
-    category: "Other-Societies-and-Committies",
+    category: "Other-Societies-and-Committees",
     club: "Society of Alumni Affairs",
     email: "",
     phone: "+91 1234567890",
     links: {},
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMbzS7MNQrJYjGCL0guqFMUsI3leyP8vRV9k4A",
+  },
+  {
+    id: 128,
+    name: "Divyamoorthi Panthi",
+    pors: ["Head, SWC"],
+    category: "Other-Societies-and-Committees",
+    club: "Student Wellbieng Committee",
+    email: "",
+    phone: "+91 1234567890",
+    links: {},
+    image:
+      "",
   },
   {
     id: 14,
@@ -869,18 +893,18 @@ export const people = [
     image:
       "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMso6q77ahIglbeHizpcYJB1N68QwroWTD3KsG",
   },
-  {
-    id: 87,
-    name: "Herschelle Sharma",
-    pors: ["Secretary, Athletics Society"],
-    category: "sports-club",
-    club: "Athletics Society",
-    email: "b24es1031@iitj.ac.in",
-    phone: "+91 1234567890",
-    links: {},
-    image:
-      "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMPzdmz4Ym642ClhTQIawSnMsW9YfGzkqOJXr3",
-  },
+  // {
+  //   id: 87,
+  //   name: "Herschelle Sharma",
+  //   pors: ["Secretary, Athletics Society"],
+  //   category: "sports-club",
+  //   club: "Athletics Society",
+  //   email: "b24es1031@iitj.ac.in",
+  //   phone: "+91 1234567890",
+  //   links: {},
+  //   image:
+  //     "https://412fvv95i7.ufs.sh/f/rhzgxTlEyzmMPzdmz4Ym642ClhTQIawSnMsW9YfGzkqOJXr3",
+  // },
   {
     id: 27,
     name: "Manas Methi",
@@ -1608,8 +1632,8 @@ export const clubMembers = {
       acc.find((c) => c.clubName === clubName)?.members.push(curr);
       return acc;
     }, []),
-  otherSocietiesAndCommitties: people
-    .filter((p) => p.category === "Other-Societies-and-Committies")
+  otherSocietiesAndCommittees: people
+    .filter((p) => p.category === "Other-Societies-and-Committees")
     .reduce((acc, curr) => {
       const clubName =
         curr.club ||
