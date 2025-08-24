@@ -1,11 +1,11 @@
 export const treeData = {
   // First layer - Main bodies (widely spaced)
   mainBodies: [
-    {
-      id: 'acac',
-      name: 'ACAC',
-      fullName: 'Academic Co-Curricular and Activity Council',
-      holder: 'Yash Golani',
+        {
+      id: 'sac',
+      name: 'SAC',
+      fullName: 'Student Activity Council',
+      holder: 'Manas Chechani',
       type: 'main',
       position: { x: -1750, y: 0 }
     },
@@ -18,13 +18,13 @@ export const treeData = {
       position: { x: 800, y: 0 }
     },
     {
-      id: 'sac',
-      name: 'SAC',
-      fullName: 'Student Activity Council',
-      holder: 'Manas Chechani',
+      id: 'acac',
+      name: 'ACAC',
+      fullName: 'Academic Co-Curricular and Activity Council',
+      holder: 'Yash Golani',
       type: 'main',
       position: { x: 2200, y: 0 }
-    }
+    },
   ],
 
   // Second layer - Boards (widely spaced with proper grouping)
@@ -35,7 +35,7 @@ export const treeData = {
       name: 'CCCD',
       fullName: 'CCCD Student Team',
       holder: '',
-      parent: 'acac',
+      parent: 'sac',
       type: 'board',
       position: { x: -3000, y: 200 }
     },
@@ -44,7 +44,7 @@ export const treeData = {
       name: 'BAC',
       fullName: 'Board of Art & Culture',
       holder: 'Vaibhav Singh',
-      parent: 'acac',
+      parent: 'sac',
       type: 'board',
       position: { x: -2500, y: 200 }
     },
@@ -53,7 +53,7 @@ export const treeData = {
       name: 'BSS',
       fullName: 'Board of Student Sports',
       holder: 'Sudhanshu Tamhankar',
-      parent: 'acac',
+      parent: 'sac',
       type: 'board',
       position: { x: -2000, y: 200 }
     },
@@ -62,7 +62,7 @@ export const treeData = {
       name: 'BSW',
       fullName: 'Board of Student Welfare',
       holder: '',
-      parent: 'acac',
+      parent: 'sac',
       type: 'board',
       position: { x: -1500, y: 200 }
     },
@@ -71,7 +71,7 @@ export const treeData = {
       name: 'BLA',
       fullName: 'Board of Literary Affairs',
       holder: 'Anshit Agarwal',
-      parent: 'acac',
+      parent: 'sac',
       type: 'board',
       position: { x: -1000, y: 200 }
     },
@@ -80,7 +80,7 @@ export const treeData = {
       name: 'BHA',
       fullName: 'Board of Hostel Affairs',
       holder: 'Harsh Kumar',
-      parent: 'acac',
+      parent: 'sac',
       type: 'board',
       position: { x: -500, y: 200 }
     },
@@ -91,7 +91,7 @@ export const treeData = {
       name: 'BAI',
       fullName: 'Board of Academic Interaction',
       holder: 'Krish Teckchandani',
-      parent: 'sac',
+      parent: 'acac',
       type: 'board',
       position: { x: 1500, y: 200 }
     },
@@ -100,7 +100,7 @@ export const treeData = {
       name: 'BDS',
       fullName: 'Board of Departmental Societies',
       holder: 'Sourav Chahar',
-      parent: 'sac',
+      parent: 'acac',
       type: 'board',
       position: { x: 2000, y: 200 }
     },
@@ -109,7 +109,7 @@ export const treeData = {
       name: 'BCD',
       fullName: 'Board of Career Development',
       holder: 'Anchitya Kumar',
-      parent: 'sac',
+      parent: 'acac',
       type: 'board',
       position: { x: 2500, y: 200 }
     },
@@ -118,7 +118,7 @@ export const treeData = {
       name: 'SAA',
       fullName: 'Society for Alumni Affairs',
       holder: 'Raghuveer Kulkarni',
-      parent: 'sac',
+      parent: 'acac',
       type: 'board',
       position: { x: 3000, y: 200 }
     },
@@ -127,7 +127,7 @@ export const treeData = {
       name: 'BIE',
       fullName: 'Board of Innovation and Entrepreneurship',
       holder: 'Vyom Shah',
-      parent: 'sac',
+      parent: 'acac',
       type: 'board',
       position: { x: 3500, y: 200 }
     },
@@ -136,7 +136,7 @@ export const treeData = {
       name: 'BCCA',
       fullName: 'Board of Co-Curricular Affairs',
       holder: 'Sambhav Jha',
-      parent: 'sac',
+      parent: 'acac',
       type: 'board',
       position: { x: 4000, y: 200 }
     }
