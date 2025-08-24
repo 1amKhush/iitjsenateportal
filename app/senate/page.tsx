@@ -10,8 +10,8 @@ interface Person {
   id: number;
   name: string;
   pors: string[];
-  email: string;
-  phone: string;
+  email?: string;
+  phone?: string;
   links: {
     linkedin?: string;
     instagram?: string;

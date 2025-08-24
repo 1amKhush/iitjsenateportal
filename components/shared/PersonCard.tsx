@@ -2,19 +2,22 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Linkedin, Instagram, Mail } from 'lucide-react';
+import Image from 'next/image';
 
 // Define the structure for a person's data
 interface Person {
   id: number;
   name: string;
   pors: string[];
-  email: string;
-  phone: string;
+  email?: string;
+  phone?: string;
   links: {
     linkedin?: string;
     instagram?: string;
   };
   image: string;
+  category?: string;
+  club?: string;
 }
 
 // The PersonCard component now has a modern, dark-theme design
@@ -29,10 +32,11 @@ const PersonCard: React.FC<{ person: Person }> = ({ person }) => {
     >
       <div className="relative aspect-[4/5] w-full overflow-hidden">
         {/* Member's Image with effects */}
-        <img
+        <Image
           src={person.image}
           alt={person.name}
-          className="absolute inset-0 w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500 ease-in-out group-hover:scale-110"
+          fill
+          className="object-cover grayscale group-hover:grayscale-0 transition-all duration-500 ease-in-out group-hover:scale-110"
           onError={(e) => {
             // Fallback to a default image if the provided one fails
             (e.target as HTMLImageElement).onerror = null; 
@@ -52,9 +56,11 @@ const PersonCard: React.FC<{ person: Person }> = ({ person }) => {
                 <Instagram size={20} /> 
               </a>
             )}
-             <a href={`mailto:${person.email}`} className="text-white/70 hover:text-white transition-colors">
+            {person.email && (
+              <a href={`mailto:${person.email}`} className="text-white/70 hover:text-white transition-colors">
                 <Mail size={20} />
               </a>
+            )}
           </div>
         </div>
       </div>
