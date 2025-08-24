@@ -1,10 +1,10 @@
 export const councils = [
     {
-        title: "General Secretary - Academic Co Curricular and Activity Council - ACAC",
-        fullform: "Academic Co-Curricular and Activity Council",
+        title: "General Secretary - Academic & Co-Curricular and Activity Council - ACAC",
+        fullform: "Academic & Co-Curricular and Activity Council",
         imageurl: "",
         holder: "Yash Golani",
-        about: "The Academic Co-Curricular and Activity Council (ACAC) is responsible for overseeing and promoting academic and co-curricular activities at IIT Jodhpur. It aims to enhance the overall educational experience of students through various initiatives and programs.The Academic Co-Curricular and Activity Council (ACAC) is responsible for overseeing and promoting academic and co-curricular activities at IIT Jodhpur. It aims to enhance the overall educational experience of students through various initiatives and programs.",
+        about: "The Academic & Co-Curricular and Activity Council (ACAC) is responsible for overseeing and promoting academic and co-curricular activities at IIT Jodhpur. It aims to enhance the overall educational experience of students through various initiatives and programs.The Academic Co-Curricular and Activity Council (ACAC) is responsible for overseeing and promoting academic and co-curricular activities at IIT Jodhpur. It aims to enhance the overall educational experience of students through various initiatives and programs.",
         contactInfo: "email phone",
         socialLinks: [
             {label: "Instagram", href: "https://www.instagram.com/iitj_acac/"},
