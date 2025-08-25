@@ -71,7 +71,7 @@
   }
 
   .animate-autoRun {
-    animation: autoRun 30s linear infinite;
+    animation: autoRun 20s linear infinite;
   }
 
   .custom-grid-bg {
@@ -92,5 +92,3 @@
     color: transparent;
   }
 }
-
-
