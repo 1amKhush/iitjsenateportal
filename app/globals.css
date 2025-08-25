@@ -63,15 +63,15 @@
 @layer utilities {
   @keyframes autoRun {
     from {
-      transform: perspective(1000px) rotateX(-16deg) rotateY(0deg);
+      transform: perspective(800px) rotateX(-11deg) rotateY(0deg);
     }
     to {
-      transform: perspective(1000px) rotateX(-16deg) rotateY(360deg);
+      transform: perspective(800px) rotateX(-11deg) rotateY(360deg);
     }
   }
 
   .animate-autoRun {
-    animation: autoRun 20s linear infinite;
+    animation: autoRun 30s linear infinite;
   }
 
   .custom-grid-bg {

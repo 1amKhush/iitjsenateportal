@@ -40,7 +40,7 @@ const CustomNode: React.FC<NodeProps<CustomNodeData>> = ({ data, ...nodeProps })
         };
       default: // club or committee
         return {
-          background: data.type === 'committee' 
+          background: data.type === 'committee'
             ? 'linear-gradient(135deg, #F59E0B 0%, #D97706 100%)'
             : 'linear-gradient(135deg, #8B5CF6 0%, #6D28D9 100%)',
           border: data.type === 'committee' ? '2px solid #D97706' : '2px solid #6D28D9',
@@ -66,7 +66,7 @@ const CustomNode: React.FC<NodeProps<CustomNodeData>> = ({ data, ...nodeProps })
         position={Position.Top}
         className="w-3 h-3 !bg-white !border-2 !border-gray-300 opacity-0 hover:opacity-100 transition-opacity"
       />
-      
+
       <div className="text-center">
         <h3 className="font-bold mb-1 leading-tight" style={{ fontSize: styles.fontSize }}>
           {data.name}
